@@ -1,0 +1,1462 @@
+﻿Order ID,Date,Product,Country Code,  UnitCost  ,  UnitPrice  ,SalesQuantity
+1,1/1/2016,Chicken Fajita Wrap (Potsdam),DEU,1,4.98,250
+2,1/2/2016,Yoghurt (Odense),DNK,1.08,5.39,112
+3,1/3/2016,Green Tea (Stuttgart),DEU,0.62,3.12,267
+4,1/4/2016,Ham & Cheese Toastie (Graz),AUT,0.44,2.19,253
+5,1/5/2016,Almond Croissant (Sydney),AUS,0.82,4.11,254
+6,1/6/2016,Peach Juice (Hamburg),DEU,0.32,1.6,186
+7,1/7/2016,Granola Bar (Glasgow),GBR,0.47,2.35,250
+8,1/8/2016,Butter Croissant (Vancouver),CAN,0.52,2.61,177
+9,1/9/2016,Tea (Seattle),USA,0.38,1.89,471
+10,1/10/2016,Still Water (Toronto),CAN,0.98,4.88,119
+11,1/11/2016,Peach Juice (Sydney),AUS,1,5.02,470
+12,1/12/2016,Almond Croissant (Sydney),AUS,0.68,3.38,471
+13,1/13/2016,Chicken Salad Sandwich (Birmingham),GBR,0.98,4.91,311
+14,1/14/2016,Orange Juice (Seattle),USA,0.99,4.96,479
+15,1/15/2016,Green Tea (Berlin),DEU,0.74,3.7,477
+16,1/16/2016,Butter Croissant (Galway),IRL,0.99,4.97,209
+17,1/17/2016,Ham & Cheese Toastie (Auckland),NZL,0.7,3.48,216
+18,1/18/2016,Toast (Stuttgart),DEU,0.98,4.88,311
+19,1/19/2016,Toast (Auckland),NZL,1.04,5.19,343
+20,1/20/2016,Ham & Cheese Toastie (Copenhagan),DNK,0.49,2.47,469
+21,1/21/2016,Chocolate Twist (Stockholm),SWE,0.79,3.97,196
+22,1/22/2016,Lemon & Ginger Tea (Sønderborg),DNK,0.41,2.05,311
+23,1/23/2016,BLT Sandwich (Kraków),POL,0.46,2.28,179
+24,1/24/2016,Peach Juice (Berlin),DEU,0.77,3.84,388
+25,1/25/2016,Yoghurt (Berlin),DEU,0.83,4.16,347
+26,1/26/2016,Toast (Salzburg),AUT,0.35,1.74,353
+27,1/27/2016,Porridge (Lausanne),CHE,0.3,1.52,380
+28,1/28/2016,Chicken Salad Sandwich (Vancouver),CAN,0.61,3.07,343
+29,1/29/2016,Green Tea (Glasgow),GBR,0.43,2.13,340
+30,1/30/2016,Yoghurt (Brussels),BEL,0.79,3.94,232
+31,1/31/2016,Lemon & Ginger Tea (Toronto),CAN,0.34,1.72,405
+32,2/1/2016,Peach Juice (Seattle),USA,0.65,3.26,115
+33,2/2/2016,Still Water (Katowice),POL,0.38,1.91,281
+34,2/3/2016,Blueberry Muffin (Lille),FRA,0.43,2.15,470
+35,2/4/2016,Granola Bar (Portland),USA,0.55,2.75,131
+36,2/5/2016,Granola Bar (Strasbourg),FRA,0.41,2.07,259
+37,2/6/2016,Peach Juice (Salzburg),AUT,0.91,4.53,152
+38,2/7/2016,Butter Croissant (Geneva),CHE,0.65,3.27,305
+39,2/8/2016,Orange Juice (Cardiff),GBR,0.49,2.45,361
+40,2/9/2016,Apple Juice (Dresden),DEU,0.7,3.51,365
+41,2/10/2016,Porridge (Portland),USA,0.73,3.67,132
+42,2/11/2016,Coffee (Toronto),CAN,0.34,1.68,497
+43,2/12/2016,Yoghurt (Auckland),NZL,0.75,3.74,298
+44,2/13/2016,Granola Bar (Berlin),DEU,0.75,3.73,359
+45,2/14/2016,Almond Croissant (Sydney),AUS,0.93,4.64,299
+46,2/15/2016,Apple Juice (Albuquerque),USA,1.03,5.17,382
+47,2/16/2016,Porridge (Birmingham),GBR,0.93,4.66,177
+48,2/17/2016,Lemon & Ginger Tea (Toulouse),FRA,0.77,3.84,149
+49,2/18/2016,Tomato Juice (Boston),USA,0.8,4.01,466
+50,2/19/2016,Orange Juice (Gdańsk),POL,0.83,4.17,477
+51,2/20/2016,Chocolate Chip Muffin (Kirkland),USA,0.5,2.5,338
+52,2/21/2016,Ham & Cheese Toastie (Paris),FRA,0.69,3.44,401
+53,2/22/2016,Granola Bar (Edinburgh),GBR,1.03,5.13,215
+54,2/23/2016,Tuna Melt Panini (Brussels),BEL,1.02,5.11,389
+55,2/24/2016,Peach Juice (Toulouse),FRA,0.46,2.32,150
+56,2/25/2016,Lemon & Ginger Tea (Albuquerque),USA,0.72,3.58,329
+57,2/26/2016,Chicken Fajita Wrap (Toronto),CAN,0.99,4.97,335
+58,2/27/2016,Still Water (Seattle),USA,0.85,4.26,321
+59,2/28/2016,Apple Juice (Vancouver),CAN,0.96,4.78,169
+60,2/29/2016,Tea (San Francisco),USA,0.97,4.83,204
+61,3/1/2016,Ham & Cheese Toastie (Sønderborg),DNK,0.33,1.67,108
+62,3/2/2016,Chicken Fajita Wrap (Auckland),NZL,0.67,3.33,182
+63,3/3/2016,Coffee (Manchester),GBR,0.4,1.99,166
+64,3/4/2016,Cheese & Pickle Sandwich (Vancouver),CAN,0.37,1.85,217
+65,3/5/2016,Tuna Melt Panini (Graz),AUT,0.58,2.89,294
+66,3/6/2016,Still Water (Sydney),AUS,0.8,4.01,191
+67,3/7/2016,Fruit Box (Manchester),GBR,0.72,3.58,398
+68,3/8/2016,Chicken Fajita Wrap (Cardiff),GBR,0.58,2.9,103
+69,3/9/2016,BLT Sandwich (Albuquerque),USA,0.88,4.39,475
+70,3/10/2016,Still Water (Graz),AUT,0.74,3.69,234
+71,3/11/2016,Tea (Geneva),CHE,1.03,5.15,106
+72,3/12/2016,Chocolate Twist (Sydney),AUS,0.66,3.31,207
+73,3/13/2016,Granola Bar (Portland),USA,0.76,3.79,229
+74,3/14/2016,Toast (Dublin),IRL,0.51,2.57,466
+75,3/15/2016,Blueberry Muffin (Hamilton),NZL,0.58,2.89,136
+76,3/16/2016,Green Tea (Cardiff),GBR,0.49,2.45,128
+77,3/17/2016,Still Water (Hamilton),NZL,0.91,4.57,275
+78,3/18/2016,Chocolate Twist (Manchester),GBR,0.83,4.14,422
+79,3/19/2016,Chocolate Chip Muffin (Canberra),AUS,0.68,3.41,203
+80,3/20/2016,Fruit Box (Glasgow),GBR,0.91,4.55,287
+81,3/21/2016,BLT Sandwich (Madison),USA,0.39,1.94,448
+82,3/22/2016,Porridge (Potsdam),DEU,0.54,2.71,109
+83,3/23/2016,Ham & Cheese Toastie (Kirkland),USA,0.88,4.4,144
+84,3/24/2016,Cheese & Pickle Sandwich (Sønderborg),DNK,0.36,1.79,457
+85,3/25/2016,Sparkling Water (Salzburg),AUT,0.41,2.03,260
+86,3/26/2016,Ham & Cheese Toastie (Odense),DNK,0.63,3.14,134
+87,3/27/2016,Butter Croissant (London),GBR,0.86,4.31,275
+88,3/28/2016,Sparkling Water (Canberra),AUS,0.55,2.75,420
+89,3/29/2016,Porridge (San Diego),USA,0.81,4.07,440
+90,3/30/2016,Apple Juice (Toronto),CAN,0.92,4.62,387
+91,3/31/2016,Chicken Fajita Wrap (Toulouse),FRA,0.68,3.38,341
+92,4/1/2016,Lemon & Ginger Tea (Kirkland),USA,0.56,2.82,322
+93,4/2/2016,Apple Juice (Hamburg),DEU,0.36,1.8,128
+94,4/3/2016,Porridge (Seattle),USA,0.89,4.45,361
+95,4/4/2016,Cheese & Pickle Sandwich (Sydney),AUS,0.42,2.11,148
+96,4/5/2016,Yoghurt (Brussels),BEL,0.58,2.92,197
+97,4/6/2016,Lemon & Ginger Tea (Birmingham),GBR,1.01,5.04,300
+98,4/7/2016,Chocolate Chip Muffin (Odense),DNK,0.44,2.2,225
+99,4/8/2016,Lemon & Ginger Tea (Kraków),POL,0.91,4.57,262
+100,4/9/2016,Ham & Cheese Toastie (Copenhagan),DNK,0.48,2.4,189
+101,4/10/2016,Lemon & Ginger Tea (Hamilton),NZL,0.41,2.06,116
+102,4/11/2016,Chicken Salad Sandwich (Salzburg),AUT,0.84,4.22,310
+103,4/12/2016,Still Water (Canberra),AUS,0.8,4,453
+104,4/13/2016,Chocolate Twist (Austin),USA,0.32,1.59,113
+105,4/14/2016,Orange Juice (Munich),DEU,0.43,2.17,169
+106,4/15/2016,Lemon & Ginger Tea (Hamilton),NZL,0.47,2.35,424
+107,4/16/2016,Fruit Box (San Diego),USA,0.53,2.63,489
+108,4/17/2016,Fruit Box (Glasgow),GBR,0.64,3.19,381
+109,4/18/2016,Still Water (Seattle),USA,0.38,1.92,495
+110,4/19/2016,Blueberry Muffin (Edinburgh),GBR,0.44,2.2,451
+111,4/20/2016,Apple Juice (Odense),DNK,0.83,4.14,142
+112,4/21/2016,Almond Croissant (Sydney),AUS,0.45,2.25,111
+113,4/22/2016,Chicken Fajita Wrap (Portland),USA,0.94,4.68,444
+114,4/23/2016,Sparkling Water (Austin),USA,0.56,2.78,111
+115,4/24/2016,Chicken Salad Sandwich (London),GBR,0.53,2.63,352
+116,4/25/2016,Cheese & Pickle Sandwich (Auckland),NZL,0.63,3.17,176
+117,4/26/2016,BLT Sandwich (Potsdam),DEU,0.45,2.24,443
+118,4/27/2016,Butter Croissant (Salzburg),AUT,0.37,1.87,285
+119,4/28/2016,Chocolate Twist (Auckland),NZL,0.78,3.92,449
+120,4/29/2016,Almond Croissant (Katowice),POL,1,4.99,337
+121,4/30/2016,Toast (Copenhagan),DNK,0.91,4.56,464
+122,5/1/2016,Chocolate Chip Muffin (Albuquerque),USA,0.46,2.29,410
+123,5/2/2016,Blueberry Muffin (Kraków),POL,0.39,1.96,182
+124,5/3/2016,BLT Sandwich (Sydney),AUS,0.8,3.98,189
+125,5/4/2016,Fruit Box (Tromsø),NOR,0.95,4.75,101
+126,5/5/2016,Tea (Glasgow),GBR,0.69,3.44,394
+127,5/6/2016,Lemon & Ginger Tea (Kirkland),USA,0.69,3.47,395
+128,5/7/2016,Butter Croissant (Sydney),AUS,0.64,3.2,468
+129,5/8/2016,Peach Juice (Kraków),POL,0.95,4.76,258
+130,5/9/2016,Cheese & Pickle Sandwich (Graz),AUT,1.02,5.09,437
+131,5/10/2016,Coffee (Boston),USA,0.95,4.76,138
+132,5/11/2016,Chocolate Twist (Galway),IRL,0.31,1.57,336
+133,5/12/2016,Toast (Geneva),CHE,0.68,3.42,157
+134,5/13/2016,Still Water (Seattle),USA,0.8,3.98,144
+135,5/14/2016,Chicken Fajita Wrap (Dresden),DEU,0.77,3.83,411
+136,5/15/2016,Cheese & Pickle Sandwich (Sydney),AUS,0.82,4.09,341
+137,5/16/2016,Fruit Box (Potsdam),DEU,0.88,4.42,261
+138,5/17/2016,Lemon & Ginger Tea (Southampton),GBR,0.51,2.53,181
+139,5/18/2016,Orange Juice (Paris),FRA,0.41,2.04,280
+140,5/19/2016,Porridge (Odense),DNK,0.89,4.43,343
+141,5/20/2016,Toast (Seattle),USA,0.32,1.59,413
+142,5/21/2016,Still Water (Salzburg),AUT,0.42,2.12,300
+143,5/22/2016,Tomato Juice (Hamburg),DEU,0.87,4.36,469
+144,5/23/2016,Chocolate Chip Muffin (Auckland),NZL,1,5,196
+145,5/24/2016,Chicken Fajita Wrap (Galway),IRL,0.62,3.08,359
+146,5/25/2016,Tomato Juice (Lausanne),CHE,0.98,4.89,350
+147,5/26/2016,Porridge (Geneva),CHE,0.49,2.45,400
+148,5/27/2016,Peach Juice (Melbourne),AUS,0.44,2.21,361
+149,5/28/2016,Granola Bar (Madison),USA,0.84,4.21,489
+150,5/29/2016,Orange Juice (Sydney),AUS,0.87,4.36,295
+151,5/30/2016,Peach Juice (Hamilton),NZL,0.76,3.81,443
+152,5/31/2016,Blueberry Muffin (Stuttgart),DEU,0.95,4.75,146
+153,6/1/2016,Green Tea (Brussels),BEL,1,5.02,116
+154,6/2/2016,Toast (Vancouver),CAN,0.74,3.7,387
+155,6/3/2016,Apple Juice (Toulouse),FRA,0.49,2.43,171
+156,6/4/2016,Yoghurt (Lausanne),CHE,0.38,1.89,168
+157,6/5/2016,Granola Bar (Albuquerque),USA,0.53,2.64,218
+158,6/6/2016,Blueberry Muffin (Sønderborg),DNK,0.71,3.53,373
+159,6/7/2016,Tomato Juice (Munich),DEU,1.07,5.37,476
+160,6/8/2016,Granola Bar (Copenhagan),DNK,0.55,2.77,500
+161,6/9/2016,Butter Croissant (Birmingham),GBR,1.1,5.48,190
+162,6/10/2016,Chocolate Chip Muffin (Stuttgart),DEU,0.74,3.69,317
+163,6/11/2016,Coffee (Melbourne),AUS,0.49,2.45,385
+164,6/12/2016,Blueberry Muffin (Hamburg),DEU,0.4,1.98,443
+165,6/13/2016,Peach Juice (Toulouse),FRA,0.57,2.87,361
+166,6/14/2016,Apple Juice (Canberra),AUS,0.74,3.69,377
+167,6/15/2016,Butter Croissant (Tromsø),NOR,0.5,2.5,426
+168,6/16/2016,Chicken Fajita Wrap (Austin),USA,0.59,2.97,328
+169,6/17/2016,Orange Juice (Southampton),GBR,0.89,4.44,368
+170,6/18/2016,BLT Sandwich (Paris),FRA,0.74,3.68,289
+171,6/19/2016,Apple Juice (Toulouse),FRA,0.53,2.65,453
+172,6/20/2016,Orange Juice (Lausanne),CHE,1,5,390
+173,6/21/2016,Coffee (Dublin),IRL,1.02,5.12,417
+174,6/22/2016,Yoghurt (Hamilton),NZL,1.04,5.19,207
+175,6/23/2016,Cheese & Pickle Sandwich (Munich),DEU,0.39,1.94,135
+176,6/24/2016,Ham & Cheese Toastie (Dresden),DEU,0.91,4.54,172
+177,6/25/2016,Tea (Portland),USA,0.87,4.36,471
+178,6/26/2016,Chicken Salad Sandwich (Salzburg),AUT,1.09,5.46,430
+179,6/27/2016,Peach Juice (Potsdam),DEU,0.57,2.86,411
+180,6/28/2016,Toast (Stockholm),SWE,0.79,3.93,367
+181,6/29/2016,Peach Juice (Strasbourg),FRA,0.54,2.69,150
+182,6/30/2016,Chocolate Twist (Potsdam),DEU,0.58,2.88,152
+183,7/1/2016,Granola Bar (San Francisco),USA,1.03,5.17,454
+184,7/2/2016,Cheese & Pickle Sandwich (Manchester),GBR,0.4,2.02,323
+185,7/3/2016,Porridge (Vancouver),CAN,0.5,2.49,133
+186,7/4/2016,Ham & Cheese Toastie (Odense),DNK,0.76,3.79,278
+187,7/5/2016,Porridge (San Francisco),USA,0.58,2.9,485
+188,7/6/2016,Fruit Box (Katowice),POL,0.75,3.75,296
+189,7/7/2016,Ham & Cheese Toastie (Edinburgh),GBR,1.01,5.03,293
+190,7/8/2016,Sparkling Water (Salzburg),AUT,0.43,2.13,193
+191,7/9/2016,Ham & Cheese Toastie (London),GBR,0.55,2.77,365
+192,7/10/2016,Butter Croissant (Odense),DNK,0.34,1.69,222
+193,7/11/2016,Still Water (Manchester),GBR,0.37,1.84,425
+194,7/12/2016,Still Water (Katowice),POL,1.01,5.05,356
+195,7/13/2016,Coffee (Potsdam),DEU,0.45,2.24,343
+196,7/14/2016,Tuna Melt Panini (Melbourne),AUS,0.72,3.58,370
+197,7/15/2016,Lemon & Ginger Tea (Hamilton),NZL,0.74,3.72,255
+198,7/16/2016,Ham & Cheese Toastie (Stuttgart),DEU,0.31,1.57,382
+199,7/17/2016,Tuna Melt Panini (Odense),DNK,0.68,3.41,420
+200,7/18/2016,Lemon & Ginger Tea (Austin),USA,0.54,2.68,458
+201,7/19/2016,Tuna Melt Panini (Boston),USA,0.4,2.01,335
+202,7/20/2016,Cheese & Pickle Sandwich (Vancouver),CAN,0.7,3.52,313
+203,7/21/2016,Lemon & Ginger Tea (Melbourne),AUS,0.83,4.17,112
+204,7/22/2016,Porridge (Stockholm),SWE,0.7,3.51,290
+205,7/23/2016,Apple Juice (Paris),FRA,0.63,3.13,241
+206,7/24/2016,Sparkling Water (Melbourne),AUS,0.3,1.5,477
+207,7/25/2016,BLT Sandwich (Lausanne),CHE,0.9,4.48,214
+208,7/26/2016,Ham & Cheese Toastie (Brussels),BEL,0.34,1.71,427
+209,7/27/2016,Lemon & Ginger Tea (Southampton),GBR,0.54,2.72,406
+210,7/28/2016,Tea (Geneva),CHE,0.47,2.33,231
+211,7/29/2016,Orange Juice (Melbourne),AUS,0.84,4.2,397
+212,7/30/2016,Ham & Cheese Toastie (Dresden),DEU,0.69,3.46,448
+213,7/31/2016,Still Water (Dresden),DEU,1.01,5.07,379
+214,8/1/2016,Chocolate Twist (San Diego),USA,0.33,1.64,275
+215,8/2/2016,Chicken Salad Sandwich (Graz),AUT,0.65,3.25,351
+216,8/3/2016,Peach Juice (Odense),DNK,0.6,3.01,106
+217,8/4/2016,Orange Juice (Kirkland),USA,0.76,3.79,178
+218,8/5/2016,Toast (Stuttgart),DEU,0.73,3.64,312
+219,8/6/2016,Porridge (Geneva),CHE,0.55,2.76,372
+220,8/7/2016,Almond Croissant (Birmingham),GBR,0.31,1.54,481
+221,8/8/2016,Chocolate Chip Muffin (Strasbourg),FRA,1.04,5.18,483
+222,8/9/2016,Yoghurt (Munich),DEU,0.49,2.44,421
+223,8/10/2016,Yoghurt (Hamilton),NZL,0.97,4.85,477
+224,8/11/2016,Butter Croissant (Toronto),CAN,0.32,1.58,292
+225,8/12/2016,Yoghurt (Birmingham),GBR,0.51,2.54,323
+226,8/13/2016,Porridge (Brussels),BEL,0.88,4.42,225
+227,8/14/2016,Tea (Geneva),CHE,0.73,3.66,230
+228,8/15/2016,Ham & Cheese Toastie (London),GBR,1.07,5.34,197
+229,8/16/2016,Lemon & Ginger Tea (Odense),DNK,1.07,5.36,304
+230,8/17/2016,Tea (San Francisco),USA,0.94,4.71,455
+231,8/18/2016,Still Water (Dublin),IRL,0.3,1.51,404
+232,8/19/2016,Chicken Fajita Wrap (Edinburgh),GBR,1.09,5.43,334
+233,8/20/2016,Chicken Salad Sandwich (Vancouver),CAN,0.75,3.73,117
+234,8/21/2016,Chocolate Chip Muffin (Toulouse),FRA,0.63,3.17,108
+235,8/22/2016,Apple Juice (Odense),DNK,0.35,1.73,451
+236,8/23/2016,Still Water (Dublin),IRL,0.68,3.39,192
+237,8/24/2016,Orange Juice (Portland),USA,0.64,3.19,154
+238,8/25/2016,Yoghurt (Kraków),POL,0.69,3.46,444
+239,8/26/2016,Toast (Brussels),BEL,0.95,4.74,420
+240,8/27/2016,Chocolate Twist (Albuquerque),USA,0.99,4.93,478
+241,8/28/2016,Blueberry Muffin (Hamburg),DEU,0.35,1.75,447
+242,8/29/2016,Chicken Fajita Wrap (Vancouver),CAN,0.64,3.21,449
+243,8/30/2016,Lemon & Ginger Tea (Berlin),DEU,0.66,3.3,113
+244,8/31/2016,Still Water (Dublin),IRL,0.49,2.45,326
+245,9/1/2016,Yoghurt (Austin),USA,0.47,2.33,189
+246,9/2/2016,BLT Sandwich (Stuttgart),DEU,0.83,4.17,400
+247,9/3/2016,Tomato Juice (Glasgow),GBR,0.94,4.7,272
+248,9/4/2016,Yoghurt (San Diego),USA,0.85,4.23,402
+249,9/5/2016,Yoghurt (Boston),USA,0.38,1.91,390
+250,9/6/2016,Orange Juice (Cardiff),GBR,0.45,2.26,156
+251,9/7/2016,Almond Croissant (Potsdam),DEU,0.76,3.79,178
+252,9/8/2016,BLT Sandwich (Stockholm),SWE,0.63,3.16,245
+253,9/9/2016,Chicken Fajita Wrap (Dublin),IRL,0.65,3.24,162
+254,9/10/2016,Porridge (Manchester),GBR,0.6,3.02,319
+255,9/11/2016,Peach Juice (Munich),DEU,0.32,1.59,285
+256,9/12/2016,Chocolate Twist (Portland),USA,1.01,5.04,285
+257,9/13/2016,Chocolate Chip Muffin (Copenhagan),DNK,0.86,4.29,420
+258,9/14/2016,Green Tea (Salzburg),AUT,0.99,4.94,285
+259,9/15/2016,Butter Croissant (Graz),AUT,0.77,3.86,312
+260,9/16/2016,Still Water (Gdańsk),POL,0.68,3.41,465
+261,9/17/2016,Ham & Cheese Toastie (Portland),USA,0.8,3.98,142
+262,9/18/2016,Ham & Cheese Toastie (Graz),AUT,0.97,4.85,190
+263,9/19/2016,Butter Croissant (Cardiff),GBR,0.66,3.29,488
+264,9/20/2016,Tuna Melt Panini (Austin),USA,0.31,1.56,147
+265,9/21/2016,Blueberry Muffin (Graz),AUT,1.08,5.38,352
+266,9/22/2016,Orange Juice (Katowice),POL,0.74,3.69,212
+267,9/23/2016,Butter Croissant (Galway),IRL,0.37,1.87,187
+268,9/24/2016,Still Water (San Diego),USA,1.02,5.12,345
+269,9/25/2016,Tuna Melt Panini (Copenhagan),DNK,0.65,3.25,211
+270,9/26/2016,Granola Bar (Madison),USA,0.87,4.33,247
+271,9/27/2016,Ham & Cheese Toastie (Vancouver),CAN,1.02,5.09,484
+272,9/28/2016,Butter Croissant (Albuquerque),USA,0.47,2.35,464
+273,9/29/2016,Cheese & Pickle Sandwich (Birmingham),GBR,0.32,1.62,308
+274,9/30/2016,Chocolate Twist (Dublin),IRL,0.98,4.88,440
+275,10/1/2016,Chicken Salad Sandwich (Toronto),CAN,0.53,2.63,211
+276,10/2/2016,Chicken Salad Sandwich (Copenhagan),DNK,0.47,2.34,384
+277,10/3/2016,Porridge (Madison),USA,0.9,4.48,344
+278,10/4/2016,Orange Juice (Hamilton),NZL,0.47,2.34,216
+279,10/5/2016,Chocolate Chip Muffin (Vancouver),CAN,0.47,2.33,369
+280,10/6/2016,Fruit Box (Austin),USA,1.03,5.15,150
+281,10/7/2016,Green Tea (London),GBR,0.47,2.37,335
+282,10/8/2016,Coffee (Stockholm),SWE,0.66,3.31,394
+283,10/9/2016,Cheese & Pickle Sandwich (Potsdam),DEU,0.4,2,221
+284,10/10/2016,Butter Croissant (Madison),USA,0.63,3.13,134
+285,10/11/2016,Tuna Melt Panini (Southampton),GBR,0.91,4.56,343
+286,10/12/2016,Blueberry Muffin (Toulouse),FRA,0.92,4.59,186
+287,10/13/2016,Chocolate Twist (Sønderborg),DNK,0.84,4.2,437
+288,10/14/2016,Toast (Hamburg),DEU,0.62,3.1,436
+289,10/15/2016,Green Tea (Potsdam),DEU,0.84,4.22,217
+290,10/16/2016,Blueberry Muffin (Sydney),AUS,0.32,1.59,415
+291,10/17/2016,Toast (Dublin),IRL,0.97,4.87,390
+292,10/18/2016,Chocolate Chip Muffin (Auckland),NZL,0.59,2.94,200
+293,10/19/2016,Coffee (Manchester),GBR,0.41,2.06,466
+294,10/20/2016,Green Tea (Edinburgh),GBR,1.02,5.09,221
+295,10/21/2016,Cheese & Pickle Sandwich (Copenhagan),DNK,1.03,5.13,326
+296,10/22/2016,Porridge (Stuttgart),DEU,0.46,2.29,255
+297,10/23/2016,Tuna Melt Panini (Odense),DNK,0.94,4.7,314
+298,10/24/2016,Tea (Edinburgh),GBR,1.09,5.44,349
+299,10/25/2016,Fruit Box (San Francisco),USA,1.01,5.03,498
+300,10/26/2016,Porridge (Madison),USA,0.54,2.68,177
+301,10/27/2016,Butter Croissant (Lille),FRA,1.01,5.06,334
+302,10/28/2016,Tomato Juice (Dresden),DEU,0.72,3.62,431
+303,10/29/2016,Still Water (Copenhagan),DNK,0.66,3.32,236
+304,10/30/2016,Blueberry Muffin (Austin),USA,0.63,3.16,346
+305,10/31/2016,Green Tea (Geneva),CHE,0.83,4.14,209
+306,11/1/2016,Toast (Sydney),AUS,1.09,5.43,190
+307,11/2/2016,Green Tea (Hamburg),DEU,0.35,1.73,161
+308,11/3/2016,Yoghurt (Toronto),CAN,0.79,3.93,242
+309,11/4/2016,Sparkling Water (Vancouver),CAN,0.55,2.77,454
+310,11/5/2016,Chocolate Chip Muffin (Galway),IRL,0.78,3.9,382
+311,11/6/2016,Toast (Southampton),GBR,0.32,1.62,420
+312,11/7/2016,Porridge (Cardiff),GBR,0.96,4.8,434
+313,11/8/2016,Sparkling Water (Munich),DEU,0.55,2.74,351
+314,11/9/2016,Tuna Melt Panini (Berlin),DEU,0.95,4.74,211
+315,11/10/2016,Chocolate Twist (Glasgow),GBR,0.77,3.83,203
+316,11/11/2016,Cheese & Pickle Sandwich (Toronto),CAN,0.4,2.02,308
+317,11/12/2016,Tomato Juice (Copenhagan),DNK,0.96,4.78,478
+318,11/13/2016,Sparkling Water (Lausanne),CHE,0.99,4.95,376
+319,11/14/2016,Apple Juice (Paris),FRA,0.49,2.45,431
+320,11/15/2016,Still Water (Seattle),USA,0.69,3.44,420
+321,11/16/2016,Tomato Juice (Madison),USA,0.59,2.95,132
+322,11/17/2016,Butter Croissant (Hamburg),DEU,0.37,1.85,321
+323,11/18/2016,Toast (San Francisco),USA,0.54,2.71,380
+324,11/19/2016,Orange Juice (Hamburg),DEU,0.6,3.01,124
+325,11/20/2016,Granola Bar (Stockholm),SWE,0.72,3.61,362
+326,11/21/2016,Granola Bar (Brussels),BEL,0.61,3.03,181
+327,11/22/2016,Chocolate Twist (Galway),IRL,0.53,2.64,127
+328,11/23/2016,Apple Juice (London),GBR,0.64,3.18,139
+329,11/24/2016,Chocolate Twist (Dresden),DEU,0.56,2.8,275
+330,11/25/2016,Almond Croissant (Galway),IRL,0.58,2.88,373
+331,11/26/2016,Yoghurt (Albuquerque),USA,0.69,3.47,133
+332,11/27/2016,Lemon & Ginger Tea (Berlin),DEU,1.05,5.25,290
+333,11/28/2016,Butter Croissant (Edinburgh),GBR,0.41,2.07,209
+334,11/29/2016,Tea (Austin),USA,0.65,3.25,400
+335,11/30/2016,Apple Juice (San Francisco),USA,0.64,3.21,196
+336,12/1/2016,Chocolate Chip Muffin (Gdańsk),POL,0.76,3.82,403
+337,12/2/2016,Toast (Sønderborg),DNK,0.95,4.73,212
+338,12/3/2016,Granola Bar (Seattle),USA,0.4,2.01,143
+339,12/4/2016,Still Water (Potsdam),DEU,0.88,4.4,391
+340,12/5/2016,Fruit Box (Munich),DEU,0.39,1.97,206
+341,12/6/2016,Fruit Box (Melbourne),AUS,0.8,3.99,370
+342,12/7/2016,Orange Juice (Glasgow),GBR,0.3,1.51,270
+343,12/8/2016,Tea (Geneva),CHE,0.41,2.03,484
+344,12/9/2016,Peach Juice (Odense),DNK,0.89,4.44,497
+345,12/10/2016,Cheese & Pickle Sandwich (Auckland),NZL,1.1,5.48,379
+346,12/11/2016,Yoghurt (Toronto),CAN,0.54,2.68,301
+347,12/12/2016,Chicken Fajita Wrap (Galway),IRL,0.96,4.82,445
+348,12/13/2016,Apple Juice (Graz),AUT,0.5,2.51,497
+349,12/14/2016,Still Water (Hamburg),DEU,0.57,2.83,390
+350,12/15/2016,Chicken Salad Sandwich (Potsdam),DEU,0.84,4.19,298
+351,12/16/2016,Tomato Juice (Copenhagan),DNK,0.99,4.94,414
+352,12/17/2016,Lemon & Ginger Tea (Hamburg),DEU,0.7,3.48,161
+353,12/18/2016,Porridge (Melbourne),AUS,0.47,2.37,462
+354,12/19/2016,Tuna Melt Panini (Hamburg),DEU,0.68,3.42,468
+355,12/20/2016,Granola Bar (Munich),DEU,0.61,3.05,478
+356,12/21/2016,Sparkling Water (Kirkland),USA,0.35,1.75,134
+357,12/22/2016,Cheese & Pickle Sandwich (Lausanne),CHE,0.68,3.42,271
+358,12/23/2016,Chocolate Chip Muffin (Graz),AUT,0.54,2.69,345
+359,12/24/2016,Green Tea (Albuquerque),USA,0.91,4.56,317
+360,12/25/2016,Blueberry Muffin (Hamilton),NZL,0.95,4.76,401
+361,12/26/2016,Sparkling Water (Kraków),POL,0.79,3.96,134
+362,12/27/2016,Lemon & Ginger Tea (Sydney),AUS,0.39,1.96,413
+363,12/28/2016,Chocolate Twist (Galway),IRL,1.01,5.04,133
+364,12/29/2016,Lemon & Ginger Tea (San Francisco),USA,1.08,5.39,370
+365,12/30/2016,BLT Sandwich (Graz),AUT,0.96,4.8,208
+366,12/31/2016,Still Water (Lausanne),CHE,0.93,4.65,224
+367,1/1/2016,Tea (Geneva),CHE,0.55,2.77,300
+368,1/2/2016,Porridge (Sydney),AUS,0.44,2.18,200
+369,1/3/2016,Chocolate Twist (Dresden),DEU,0.87,4.36,432
+370,1/4/2016,Granola Bar (Albuquerque),USA,0.92,4.6,415
+371,1/5/2016,Tuna Melt Panini (Edinburgh),GBR,0.88,4.38,108
+372,1/6/2016,Ham & Cheese Toastie (Lille),FRA,0.47,2.34,187
+373,1/7/2016,Cheese & Pickle Sandwich (Madison),USA,0.53,2.67,435
+374,1/8/2016,Chocolate Twist (Gdańsk),POL,0.96,4.82,458
+375,1/9/2016,Fruit Box (Cardiff),GBR,0.66,3.3,361
+376,1/10/2016,Chocolate Chip Muffin (Tromsø),NOR,0.36,1.8,329
+377,1/11/2016,Chicken Fajita Wrap (Edinburgh),GBR,0.57,2.86,178
+378,1/12/2016,Tea (Hamburg),DEU,0.39,1.93,317
+379,1/13/2016,Cheese & Pickle Sandwich (Stockholm),SWE,0.66,3.32,263
+380,1/14/2016,Still Water (Canberra),AUS,0.74,3.71,163
+381,1/15/2016,Blueberry Muffin (Madison),USA,0.88,4.4,266
+382,1/16/2016,Peach Juice (Stockholm),SWE,0.47,2.36,174
+383,1/17/2016,Chicken Salad Sandwich (San Francisco),USA,0.83,4.15,261
+384,1/18/2016,Sparkling Water (Lille),FRA,0.38,1.9,481
+385,1/19/2016,Chocolate Chip Muffin (Lille),FRA,0.58,2.91,216
+386,1/20/2016,Lemon & Ginger Tea (Austin),USA,0.52,2.58,261
+387,1/21/2016,Fruit Box (Stockholm),SWE,0.84,4.18,127
+388,1/22/2016,Granola Bar (Salzburg),AUT,0.63,3.13,382
+389,1/23/2016,Peach Juice (Paris),FRA,0.52,2.62,318
+390,1/24/2016,Green Tea (Graz),AUT,0.37,1.87,415
+391,1/25/2016,Cheese & Pickle Sandwich (Stockholm),SWE,0.47,2.37,316
+392,1/26/2016,Yoghurt (Vancouver),CAN,0.67,3.34,218
+393,1/27/2016,Fruit Box (Madison),USA,0.65,3.26,377
+394,1/28/2016,Peach Juice (Copenhagan),DNK,0.74,3.69,104
+395,1/29/2016,Cheese & Pickle Sandwich (Geneva),CHE,1.07,5.35,400
+396,1/30/2016,Orange Juice (Lausanne),CHE,0.96,4.82,400
+397,1/31/2016,Granola Bar (Lausanne),CHE,0.8,4,239
+398,2/1/2016,Sparkling Water (Toulouse),FRA,0.68,3.39,164
+399,2/2/2016,Blueberry Muffin (Edinburgh),GBR,0.64,3.22,271
+400,2/3/2016,Tomato Juice (Katowice),POL,0.46,2.3,441
+401,2/4/2016,Green Tea (Canberra),AUS,0.79,3.94,429
+402,2/5/2016,Chocolate Twist (Sønderborg),DNK,0.93,4.67,275
+403,2/6/2016,Fruit Box (Edinburgh),GBR,1,4.99,265
+404,2/7/2016,Apple Juice (Cardiff),GBR,0.3,1.52,289
+405,2/8/2016,Porridge (Toronto),CAN,0.83,4.14,500
+406,2/9/2016,Toast (Sønderborg),DNK,0.4,2.02,266
+407,2/10/2016,Chicken Fajita Wrap (San Francisco),USA,0.45,2.26,347
+408,2/11/2016,Chocolate Chip Muffin (Cardiff),GBR,0.97,4.83,349
+409,2/12/2016,Coffee (Lille),FRA,0.6,2.98,354
+410,2/13/2016,Almond Croissant (Madison),USA,0.3,1.5,136
+411,2/14/2016,Still Water (Toronto),CAN,0.8,4.02,318
+412,2/15/2016,Toast (Vancouver),CAN,0.71,3.55,440
+413,2/16/2016,Apple Juice (Sydney),AUS,0.47,2.36,386
+414,2/17/2016,Fruit Box (San Diego),USA,0.43,2.14,213
+415,2/18/2016,Chicken Fajita Wrap (Cardiff),GBR,0.68,3.42,354
+416,2/19/2016,Toast (Kraków),POL,0.58,2.89,490
+417,2/20/2016,Ham & Cheese Toastie (Copenhagan),DNK,0.8,4,421
+418,2/21/2016,Toast (Lille),FRA,0.61,3.06,112
+419,2/22/2016,Still Water (London),GBR,0.52,2.59,182
+420,2/23/2016,Sparkling Water (Kraków),POL,0.85,4.25,378
+421,2/24/2016,Lemon & Ginger Tea (Katowice),POL,0.58,2.9,362
+422,2/25/2016,Peach Juice (Hamburg),DEU,0.66,3.28,187
+423,2/26/2016,Almond Croissant (Cardiff),GBR,0.87,4.33,242
+424,2/27/2016,Granola Bar (Stockholm),SWE,0.58,2.91,254
+425,2/28/2016,Fruit Box (London),GBR,0.66,3.32,394
+426,3/1/2016,Orange Juice (Birmingham),GBR,0.48,2.38,245
+427,3/2/2016,Chocolate Chip Muffin (Glasgow),GBR,0.39,1.93,301
+428,3/3/2016,BLT Sandwich (Austin),USA,0.55,2.73,166
+429,3/4/2016,Orange Juice (Copenhagan),DNK,0.43,2.13,365
+430,3/5/2016,Peach Juice (Tromsø),NOR,0.4,2.02,342
+431,3/6/2016,Tomato Juice (Graz),AUT,0.97,4.87,391
+432,3/7/2016,Chocolate Twist (Southampton),GBR,0.52,2.61,223
+433,3/8/2016,Fruit Box (Birmingham),GBR,0.5,2.49,182
+434,3/9/2016,Chocolate Chip Muffin (Paris),FRA,0.48,2.42,258
+435,3/10/2016,Apple Juice (Canberra),AUS,1.07,5.33,287
+436,3/11/2016,BLT Sandwich (Lille),FRA,0.46,2.28,451
+437,3/12/2016,BLT Sandwich (Berlin),DEU,0.42,2.08,180
+438,3/13/2016,Blueberry Muffin (San Francisco),USA,0.44,2.22,252
+439,3/14/2016,Peach Juice (Copenhagan),DNK,0.41,2.03,307
+440,3/15/2016,Granola Bar (Kraków),POL,0.41,2.07,418
+441,3/16/2016,Apple Juice (Geneva),CHE,1.04,5.19,342
+442,3/17/2016,Yoghurt (Stuttgart),DEU,0.78,3.9,422
+443,3/18/2016,Butter Croissant (Stockholm),SWE,0.94,4.71,230
+444,3/19/2016,Coffee (Graz),AUT,1.05,5.25,377
+445,3/20/2016,Yoghurt (Kirkland),USA,0.36,1.78,378
+446,3/21/2016,Tuna Melt Panini (Dublin),IRL,0.61,3.06,478
+447,3/22/2016,Cheese & Pickle Sandwich (Munich),DEU,0.43,2.17,123
+448,3/23/2016,Chocolate Chip Muffin (Madison),USA,0.62,3.08,496
+449,3/24/2016,Granola Bar (Madison),USA,0.77,3.84,399
+450,3/25/2016,Tea (Lausanne),CHE,0.47,2.34,147
+451,3/26/2016,Butter Croissant (Dresden),DEU,0.92,4.62,402
+452,3/27/2016,Coffee (Katowice),POL,0.36,1.82,174
+453,3/28/2016,Lemon & Ginger Tea (Albuquerque),USA,0.94,4.71,395
+454,3/29/2016,Tea (Toulouse),FRA,0.88,4.42,409
+455,3/30/2016,Toast (Brussels),BEL,0.78,3.89,224
+456,3/31/2016,Chicken Fajita Wrap (San Diego),USA,0.79,3.96,189
+457,4/1/2016,Lemon & Ginger Tea (Glasgow),GBR,0.85,4.24,420
+458,4/2/2016,Yoghurt (Strasbourg),FRA,0.58,2.92,206
+459,4/3/2016,Coffee (Manchester),GBR,0.94,4.71,106
+460,4/4/2016,Almond Croissant (Hamburg),DEU,0.63,3.17,381
+461,4/5/2016,Chocolate Twist (Kraków),POL,0.48,2.4,419
+462,4/6/2016,Cheese & Pickle Sandwich (Tromsø),NOR,0.85,4.23,336
+463,4/7/2016,Fruit Box (Galway),IRL,1.05,5.26,351
+464,4/8/2016,BLT Sandwich (Birmingham),GBR,0.43,2.13,336
+465,4/9/2016,Tuna Melt Panini (Southampton),GBR,0.49,2.46,466
+466,4/10/2016,Fruit Box (Cardiff),GBR,0.58,2.89,465
+467,4/11/2016,Still Water (Hamburg),DEU,1.06,5.32,484
+468,4/12/2016,Chicken Fajita Wrap (Toronto),CAN,0.31,1.54,122
+469,4/13/2016,Green Tea (Graz),AUT,0.61,3.05,281
+470,4/14/2016,Blueberry Muffin (Stuttgart),DEU,0.97,4.84,419
+471,4/15/2016,Coffee (Manchester),GBR,0.81,4.05,350
+472,4/16/2016,Toast (Graz),AUT,0.91,4.53,273
+473,4/17/2016,Porridge (Sydney),AUS,0.49,2.46,432
+474,4/18/2016,Chocolate Twist (Birmingham),GBR,0.92,4.59,281
+475,4/19/2016,Blueberry Muffin (Seattle),USA,0.8,4,378
+476,4/20/2016,Toast (Cardiff),GBR,0.57,2.85,161
+477,4/21/2016,Blueberry Muffin (Potsdam),DEU,1.07,5.36,333
+478,4/22/2016,Blueberry Muffin (Manchester),GBR,0.71,3.55,332
+479,4/23/2016,Chicken Salad Sandwich (Stuttgart),DEU,0.82,4.1,455
+480,4/24/2016,Green Tea (Southampton),GBR,0.76,3.8,368
+481,4/25/2016,Porridge (Kirkland),USA,0.35,1.76,260
+482,4/26/2016,Yoghurt (Geneva),CHE,0.93,4.63,309
+483,4/27/2016,Porridge (Birmingham),GBR,0.6,3,120
+484,4/28/2016,Yoghurt (Birmingham),GBR,1.06,5.28,499
+485,4/29/2016,Chicken Fajita Wrap (Cardiff),GBR,0.6,2.99,345
+486,4/30/2016,Ham & Cheese Toastie (Paris),FRA,0.65,3.24,260
+487,5/1/2016,Granola Bar (Toulouse),FRA,0.56,2.8,206
+488,5/2/2016,Orange Juice (Glasgow),GBR,0.96,4.78,488
+489,5/3/2016,Orange Juice (Geneva),CHE,0.47,2.35,427
+490,5/4/2016,Chocolate Twist (Albuquerque),USA,0.47,2.33,476
+491,5/5/2016,Tea (Paris),FRA,0.39,1.96,464
+492,5/6/2016,Tuna Melt Panini (Auckland),NZL,0.41,2.06,378
+493,5/7/2016,Chicken Fajita Wrap (Southampton),GBR,0.36,1.82,357
+494,5/8/2016,Sparkling Water (Katowice),POL,0.8,3.99,466
+495,5/9/2016,Chicken Fajita Wrap (Strasbourg),FRA,0.58,2.91,264
+496,5/10/2016,Porridge (Paris),FRA,0.57,2.84,361
+497,5/11/2016,Sparkling Water (Graz),AUT,0.64,3.2,339
+498,5/12/2016,Peach Juice (Odense),DNK,0.57,2.87,187
+499,5/13/2016,Tea (Tromsø),NOR,0.65,3.24,198
+500,5/14/2016,Chocolate Twist (Austin),USA,0.55,2.77,346
+501,5/15/2016,Tea (Dresden),DEU,0.57,2.87,377
+502,5/16/2016,Still Water (Toronto),CAN,0.45,2.24,219
+503,5/17/2016,Tuna Melt Panini (Copenhagan),DNK,0.5,2.48,379
+504,5/18/2016,Lemon & Ginger Tea (Tromsø),NOR,1.08,5.41,292
+505,5/19/2016,Chocolate Twist (Kirkland),USA,0.47,2.36,345
+506,5/20/2016,Coffee (San Diego),USA,0.79,3.97,458
+507,5/21/2016,Coffee (Berlin),DEU,1.07,5.36,440
+508,5/22/2016,Orange Juice (Sønderborg),DNK,0.59,2.96,223
+509,5/23/2016,Porridge (Strasbourg),FRA,1.06,5.31,465
+510,5/24/2016,Still Water (Brussels),BEL,0.44,2.19,144
+511,5/25/2016,Fruit Box (Sønderborg),DNK,1.03,5.17,307
+512,5/26/2016,Porridge (Strasbourg),FRA,0.56,2.8,161
+513,5/27/2016,BLT Sandwich (Hamburg),DEU,0.78,3.9,181
+514,5/28/2016,Peach Juice (London),GBR,0.66,3.31,293
+515,5/29/2016,Butter Croissant (Graz),AUT,1.01,5.03,496
+516,5/30/2016,Butter Croissant (Toulouse),FRA,0.71,3.57,477
+517,5/31/2016,Apple Juice (Lausanne),CHE,0.49,2.44,189
+518,6/1/2016,Lemon & Ginger Tea (Auckland),NZL,1.07,5.34,224
+519,6/2/2016,Tea (Sydney),AUS,0.7,3.52,289
+520,6/3/2016,Granola Bar (Strasbourg),FRA,1.08,5.4,325
+521,6/4/2016,BLT Sandwich (Edinburgh),GBR,1.09,5.45,273
+522,6/5/2016,Chicken Fajita Wrap (Strasbourg),FRA,0.54,2.72,156
+523,6/6/2016,Ham & Cheese Toastie (Lille),FRA,0.35,1.75,259
+524,6/7/2016,Chicken Fajita Wrap (Seattle),USA,0.89,4.46,247
+525,6/8/2016,Still Water (Berlin),DEU,0.46,2.31,463
+526,6/9/2016,Cheese & Pickle Sandwich (San Francisco),USA,1.05,5.23,485
+527,6/10/2016,Tomato Juice (Copenhagan),DNK,0.44,2.22,413
+528,6/11/2016,Apple Juice (Toronto),CAN,0.94,4.7,384
+529,6/12/2016,Chocolate Twist (Madison),USA,0.92,4.6,312
+530,6/13/2016,Chicken Fajita Wrap (Toronto),CAN,0.3,1.52,380
+531,6/14/2016,Chocolate Twist (Sønderborg),DNK,0.86,4.3,396
+532,6/15/2016,Fruit Box (Galway),IRL,0.5,2.5,323
+533,6/16/2016,Tomato Juice (Portland),USA,0.42,2.1,386
+534,6/17/2016,Green Tea (Strasbourg),FRA,0.84,4.2,378
+535,6/18/2016,Fruit Box (Melbourne),AUS,0.7,3.51,439
+536,6/19/2016,Tomato Juice (London),GBR,0.32,1.61,153
+537,6/20/2016,Lemon & Ginger Tea (Potsdam),DEU,0.45,2.24,203
+538,6/21/2016,Fruit Box (Hamburg),DEU,0.74,3.68,310
+539,6/22/2016,Sparkling Water (London),GBR,0.46,2.31,282
+540,6/23/2016,Chicken Fajita Wrap (Melbourne),AUS,0.65,3.24,173
+541,6/24/2016,Orange Juice (Graz),AUT,0.95,4.73,393
+542,6/25/2016,Tuna Melt Panini (Cardiff),GBR,0.68,3.42,251
+543,6/26/2016,Ham & Cheese Toastie (Lille),FRA,0.94,4.71,141
+544,6/27/2016,Yoghurt (Lille),FRA,1.04,5.2,344
+545,6/28/2016,Toast (Galway),IRL,0.34,1.69,386
+546,6/29/2016,Porridge (Gdańsk),POL,0.9,4.5,443
+547,6/30/2016,Sparkling Water (Lille),FRA,0.81,4.07,318
+548,7/1/2016,Blueberry Muffin (Madison),USA,1.09,5.43,161
+549,7/2/2016,Almond Croissant (Munich),DEU,0.54,2.68,123
+550,7/3/2016,Yoghurt (Hamburg),DEU,0.73,3.66,288
+551,7/4/2016,Toast (Manchester),GBR,0.38,1.91,424
+552,7/5/2016,Lemon & Ginger Tea (Copenhagan),DNK,0.39,1.93,384
+553,7/6/2016,Orange Juice (Munich),DEU,1.09,5.44,229
+554,7/7/2016,Cheese & Pickle Sandwich (Madison),USA,0.51,2.57,393
+555,7/8/2016,Still Water (Munich),DEU,0.77,3.83,436
+556,7/9/2016,Lemon & Ginger Tea (Kraków),POL,0.41,2.06,396
+557,7/10/2016,Porridge (Southampton),GBR,0.94,4.69,142
+558,7/11/2016,Apple Juice (Auckland),NZL,0.86,4.32,291
+559,7/12/2016,Chocolate Twist (Odense),DNK,1.04,5.18,453
+560,7/13/2016,Ham & Cheese Toastie (Strasbourg),FRA,0.9,4.52,475
+561,7/14/2016,Tea (Galway),IRL,0.91,4.54,192
+562,7/15/2016,Granola Bar (Gdańsk),POL,0.39,1.94,221
+563,7/16/2016,Still Water (Galway),IRL,0.91,4.55,176
+564,7/17/2016,Green Tea (Geneva),CHE,0.55,2.77,487
+565,7/18/2016,Toast (Kraków),POL,0.86,4.28,344
+566,7/19/2016,Apple Juice (Strasbourg),FRA,0.95,4.77,331
+567,7/20/2016,Blueberry Muffin (Brussels),BEL,0.95,4.76,496
+568,7/21/2016,Blueberry Muffin (Dresden),DEU,0.75,3.75,260
+569,7/22/2016,Green Tea (Stockholm),SWE,0.69,3.46,460
+570,7/23/2016,Apple Juice (Sydney),AUS,0.37,1.84,286
+571,7/24/2016,Lemon & Ginger Tea (Gdańsk),POL,0.75,3.73,157
+572,7/25/2016,BLT Sandwich (Berlin),DEU,0.59,2.97,361
+573,7/26/2016,Toast (Strasbourg),FRA,1.06,5.28,170
+574,7/27/2016,Porridge (Strasbourg),FRA,1.02,5.1,413
+575,7/28/2016,Cheese & Pickle Sandwich (Auckland),NZL,0.63,3.14,130
+576,7/29/2016,Toast (Sydney),AUS,0.98,4.89,166
+577,7/30/2016,Apple Juice (Edinburgh),GBR,0.38,1.88,402
+578,7/31/2016,Green Tea (Potsdam),DEU,0.8,4.02,351
+579,8/1/2016,Apple Juice (Gdańsk),POL,0.58,2.88,148
+580,8/2/2016,Blueberry Muffin (Seattle),USA,1.1,5.49,437
+581,8/3/2016,Cheese & Pickle Sandwich (Stuttgart),DEU,0.31,1.55,240
+582,8/4/2016,Sparkling Water (Birmingham),GBR,0.99,4.94,372
+583,8/5/2016,Fruit Box (Hamilton),NZL,0.89,4.44,423
+584,8/6/2016,Chocolate Twist (Munich),DEU,0.38,1.91,270
+585,8/7/2016,Blueberry Muffin (Salzburg),AUT,1,5.01,349
+586,8/8/2016,Fruit Box (Galway),IRL,0.71,3.53,280
+587,8/9/2016,Green Tea (Sydney),AUS,0.74,3.71,182
+588,8/10/2016,Porridge (Toronto),CAN,0.53,2.63,292
+589,8/11/2016,Cheese & Pickle Sandwich (Galway),IRL,0.93,4.66,419
+590,8/12/2016,Lemon & Ginger Tea (Manchester),GBR,0.91,4.57,294
+591,8/13/2016,Sparkling Water (Tromsø),NOR,0.43,2.16,394
+592,8/14/2016,Lemon & Ginger Tea (Dresden),DEU,0.8,4.02,381
+593,8/15/2016,Tea (San Francisco),USA,0.89,4.45,414
+594,8/16/2016,Chocolate Chip Muffin (Auckland),NZL,0.86,4.28,425
+595,8/17/2016,Tea (Sydney),AUS,0.38,1.91,309
+596,8/18/2016,BLT Sandwich (Copenhagan),DNK,1.06,5.3,472
+597,8/19/2016,Tea (Berlin),DEU,1.03,5.17,479
+598,8/20/2016,Sparkling Water (Melbourne),AUS,0.37,1.85,311
+599,8/21/2016,Tuna Melt Panini (Edinburgh),GBR,0.31,1.55,313
+600,8/22/2016,Green Tea (Munich),DEU,0.55,2.74,183
+601,8/23/2016,Porridge (Geneva),CHE,0.92,4.62,146
+602,8/24/2016,Granola Bar (Kraków),POL,0.82,4.12,309
+603,8/25/2016,Blueberry Muffin (London),GBR,0.54,2.7,337
+604,8/26/2016,Ham & Cheese Toastie (Hamilton),NZL,0.56,2.78,418
+605,8/27/2016,Porridge (Toronto),CAN,0.79,3.95,259
+606,8/28/2016,Blueberry Muffin (Katowice),POL,0.55,2.73,337
+607,8/29/2016,Granola Bar (San Diego),USA,0.73,3.67,448
+608,8/30/2016,Almond Croissant (Southampton),GBR,0.64,3.22,367
+609,8/31/2016,Apple Juice (Kirkland),USA,0.6,3.01,394
+610,9/1/2016,Toast (Gdańsk),POL,0.7,3.49,261
+611,9/2/2016,Chicken Fajita Wrap (Salzburg),AUT,0.87,4.33,188
+612,9/3/2016,Yoghurt (Odense),DNK,0.49,2.47,363
+613,9/4/2016,Chicken Salad Sandwich (Lille),FRA,0.7,3.51,477
+614,9/5/2016,Yoghurt (Hamilton),NZL,0.95,4.73,217
+615,9/6/2016,Apple Juice (Boston),USA,0.67,3.36,323
+616,9/7/2016,Lemon & Ginger Tea (Auckland),NZL,0.33,1.66,269
+617,9/8/2016,Green Tea (Glasgow),GBR,0.64,3.2,104
+618,9/9/2016,Chicken Fajita Wrap (Sønderborg),DNK,0.49,2.45,167
+619,9/10/2016,Ham & Cheese Toastie (Dublin),IRL,0.61,3.07,438
+620,9/11/2016,Chocolate Chip Muffin (Sydney),AUS,0.34,1.69,211
+621,9/12/2016,Chocolate Twist (Manchester),GBR,0.37,1.83,472
+622,9/13/2016,Ham & Cheese Toastie (San Francisco),USA,0.65,3.26,404
+623,9/14/2016,Yoghurt (Kraków),POL,0.71,3.55,447
+624,9/15/2016,Coffee (Berlin),DEU,1.09,5.43,416
+625,9/16/2016,Ham & Cheese Toastie (Lille),FRA,0.94,4.69,260
+626,9/17/2016,Chocolate Chip Muffin (Lille),FRA,0.61,3.05,100
+627,9/18/2016,BLT Sandwich (San Diego),USA,0.93,4.67,423
+628,9/19/2016,Chicken Fajita Wrap (Copenhagan),DNK,0.65,3.27,100
+629,9/20/2016,Still Water (Manchester),GBR,1.09,5.44,435
+630,9/21/2016,Peach Juice (Dublin),IRL,0.63,3.14,464
+631,9/22/2016,Chicken Fajita Wrap (Madison),USA,0.33,1.63,323
+632,9/23/2016,Chocolate Chip Muffin (Vancouver),CAN,0.74,3.72,179
+633,9/24/2016,Tea (Berlin),DEU,0.78,3.88,350
+634,9/25/2016,Lemon & Ginger Tea (Auckland),NZL,0.55,2.77,354
+635,9/26/2016,Ham & Cheese Toastie (San Diego),USA,0.92,4.61,205
+636,9/27/2016,Orange Juice (Southampton),GBR,0.68,3.38,481
+637,9/28/2016,Chocolate Chip Muffin (Paris),FRA,1.06,5.31,262
+638,9/29/2016,Peach Juice (Cardiff),GBR,0.65,3.24,444
+639,9/30/2016,Sparkling Water (Edinburgh),GBR,0.82,4.1,225
+640,10/1/2016,Chicken Salad Sandwich (Melbourne),AUS,0.72,3.62,186
+641,10/2/2016,Coffee (Tromsø),NOR,0.55,2.74,410
+642,10/3/2016,Cheese & Pickle Sandwich (Stuttgart),DEU,0.81,4.04,265
+643,10/4/2016,Toast (Manchester),GBR,0.41,2.07,142
+644,10/5/2016,Ham & Cheese Toastie (San Diego),USA,0.37,1.87,424
+645,10/6/2016,BLT Sandwich (Canberra),AUS,0.47,2.33,448
+646,10/7/2016,Chocolate Twist (Berlin),DEU,0.55,2.77,231
+647,10/8/2016,Ham & Cheese Toastie (Auckland),NZL,0.64,3.19,117
+648,10/9/2016,Blueberry Muffin (Potsdam),DEU,0.97,4.86,323
+649,10/10/2016,Green Tea (Strasbourg),FRA,0.37,1.83,453
+650,10/11/2016,Chocolate Chip Muffin (Potsdam),DEU,0.33,1.63,377
+651,10/12/2016,Sparkling Water (Tromsø),NOR,0.65,3.24,338
+652,10/13/2016,Butter Croissant (Dublin),IRL,0.75,3.76,261
+653,10/14/2016,Chocolate Chip Muffin (Lausanne),CHE,1.06,5.29,114
+654,10/15/2016,Tuna Melt Panini (Dublin),IRL,0.85,4.23,390
+655,10/16/2016,Green Tea (Stockholm),SWE,1.09,5.47,440
+656,10/17/2016,Granola Bar (Sønderborg),DNK,0.5,2.52,133
+657,10/18/2016,Peach Juice (Tromsø),NOR,0.65,3.26,487
+658,10/19/2016,Butter Croissant (Melbourne),AUS,0.5,2.49,458
+659,10/20/2016,Porridge (Galway),IRL,0.71,3.55,241
+660,10/21/2016,Ham & Cheese Toastie (Copenhagan),DNK,0.87,4.36,437
+661,10/22/2016,Butter Croissant (Dresden),DEU,0.94,4.69,303
+662,10/23/2016,Yoghurt (Salzburg),AUT,0.7,3.5,196
+663,10/24/2016,Almond Croissant (Munich),DEU,1.01,5.04,263
+664,10/25/2016,Tea (Lille),FRA,0.49,2.47,201
+665,10/26/2016,Orange Juice (Gdańsk),POL,0.43,2.15,274
+666,10/27/2016,Chocolate Twist (Sydney),AUS,0.92,4.59,247
+667,10/28/2016,Fruit Box (Brussels),BEL,0.89,4.46,265
+668,10/29/2016,Blueberry Muffin (Hamilton),NZL,0.81,4.03,345
+669,10/30/2016,Tomato Juice (Stuttgart),DEU,1,4.99,120
+670,10/31/2016,Still Water (Madison),USA,0.47,2.34,261
+671,11/1/2016,Granola Bar (Salzburg),AUT,0.69,3.44,130
+672,11/2/2016,Chicken Salad Sandwich (Graz),AUT,0.38,1.9,110
+673,11/3/2016,Butter Croissant (Strasbourg),FRA,0.31,1.56,260
+674,11/4/2016,Chicken Fajita Wrap (Portland),USA,0.64,3.2,104
+675,11/5/2016,Tea (Vancouver),CAN,0.88,4.41,164
+676,11/6/2016,Lemon & Ginger Tea (Melbourne),AUS,0.8,4,124
+677,11/7/2016,Lemon & Ginger Tea (Katowice),POL,0.81,4.07,418
+678,11/8/2016,Chocolate Chip Muffin (Lausanne),CHE,0.86,4.29,336
+679,11/9/2016,Blueberry Muffin (Albuquerque),USA,0.87,4.34,480
+680,11/10/2016,Granola Bar (Sydney),AUS,0.49,2.45,230
+681,11/11/2016,Almond Croissant (Copenhagan),DNK,1.08,5.38,426
+682,11/12/2016,Apple Juice (Toronto),CAN,0.94,4.72,238
+683,11/13/2016,Tea (Kirkland),USA,0.38,1.92,329
+684,11/14/2016,Chicken Salad Sandwich (Auckland),NZL,0.71,3.55,331
+685,11/15/2016,Peach Juice (Birmingham),GBR,0.92,4.62,405
+686,11/16/2016,Porridge (San Diego),USA,0.71,3.57,365
+687,11/17/2016,Chocolate Twist (Toronto),CAN,1.1,5.49,448
+688,11/18/2016,Apple Juice (Portland),USA,0.77,3.83,304
+689,11/19/2016,Tuna Melt Panini (Melbourne),AUS,0.49,2.46,156
+690,11/20/2016,Chicken Fajita Wrap (Seattle),USA,1.04,5.21,180
+691,11/21/2016,Cheese & Pickle Sandwich (Boston),USA,0.59,2.94,180
+692,11/22/2016,Peach Juice (Toronto),CAN,0.72,3.58,498
+693,11/23/2016,Tomato Juice (Kraków),POL,0.86,4.3,146
+694,11/24/2016,Sparkling Water (Dublin),IRL,0.84,4.21,454
+695,11/25/2016,Peach Juice (Southampton),GBR,0.75,3.76,287
+696,11/26/2016,Still Water (Dublin),IRL,0.47,2.35,379
+697,11/27/2016,Ham & Cheese Toastie (Brussels),BEL,0.5,2.5,132
+698,11/28/2016,Blueberry Muffin (Melbourne),AUS,0.53,2.64,340
+699,11/29/2016,Porridge (Sydney),AUS,0.82,4.1,343
+700,11/30/2016,Coffee (Toronto),CAN,0.87,4.36,105
+701,12/1/2016,Chicken Fajita Wrap (Copenhagan),DNK,0.71,3.54,404
+702,12/2/2016,Chocolate Twist (Seattle),USA,0.82,4.09,381
+703,12/3/2016,Butter Croissant (Vancouver),CAN,0.73,3.64,173
+704,12/4/2016,Cheese & Pickle Sandwich (London),GBR,0.37,1.83,451
+705,12/5/2016,Coffee (Auckland),NZL,0.6,2.99,282
+706,12/6/2016,BLT Sandwich (Sydney),AUS,1.06,5.3,350
+707,12/7/2016,Granola Bar (Geneva),CHE,0.95,4.77,438
+708,12/8/2016,Chicken Salad Sandwich (Glasgow),GBR,0.83,4.16,217
+709,12/9/2016,Chicken Fajita Wrap (Cardiff),GBR,0.65,3.24,431
+710,12/10/2016,Blueberry Muffin (Potsdam),DEU,0.85,4.26,442
+711,12/11/2016,Butter Croissant (Boston),USA,0.74,3.71,409
+712,12/12/2016,Still Water (Southampton),GBR,0.75,3.77,255
+713,12/13/2016,Chicken Salad Sandwich (Dresden),DEU,0.57,2.84,344
+714,12/14/2016,Tuna Melt Panini (Hamburg),DEU,0.41,2.06,338
+715,12/15/2016,Tea (Toulouse),FRA,0.59,2.97,115
+716,12/16/2016,Apple Juice (Paris),FRA,1.04,5.21,193
+717,12/17/2016,Coffee (Birmingham),GBR,0.32,1.62,135
+718,12/18/2016,Sparkling Water (Madison),USA,0.56,2.79,254
+719,12/19/2016,Tomato Juice (Graz),AUT,0.4,2,206
+720,12/20/2016,Almond Croissant (Birmingham),GBR,0.46,2.28,112
+721,12/21/2016,Tomato Juice (Birmingham),GBR,0.39,1.93,120
+722,12/22/2016,Tea (Vancouver),CAN,0.98,4.9,178
+723,12/23/2016,Chocolate Twist (Albuquerque),USA,0.39,1.96,264
+724,12/24/2016,Green Tea (Auckland),NZL,0.38,1.89,437
+725,12/25/2016,Tea (Berlin),DEU,0.71,3.57,174
+726,12/26/2016,Chicken Fajita Wrap (Odense),DNK,0.56,2.78,180
+727,12/27/2016,Butter Croissant (Salzburg),AUT,0.38,1.91,355
+728,12/28/2016,Chocolate Chip Muffin (Sydney),AUS,0.48,2.38,336
+729,12/29/2016,Toast (Hamilton),NZL,0.95,4.76,295
+730,12/30/2016,Yoghurt (San Diego),USA,0.76,3.79,255
+731,12/31/2016,Almond Croissant (Southampton),GBR,0.77,3.85,355
+732,1/1/2016,Almond Croissant (Sydney),AUS,1.04,5.22,342
+733,1/2/2016,Yoghurt (Copenhagan),DNK,0.82,4.11,114
+734,1/3/2016,Blueberry Muffin (Salzburg),AUT,0.6,3,199
+735,1/4/2016,Ham & Cheese Toastie (Potsdam),DEU,0.32,1.61,300
+736,1/5/2016,Chocolate Chip Muffin (San Francisco),USA,0.59,2.97,169
+737,1/6/2016,Blueberry Muffin (Manchester),GBR,0.92,4.58,146
+738,1/7/2016,BLT Sandwich (Odense),DNK,0.6,3.02,426
+739,1/8/2016,Chicken Salad Sandwich (Strasbourg),FRA,0.43,2.17,218
+740,1/9/2016,Chocolate Chip Muffin (Auckland),NZL,1.09,5.44,445
+741,1/10/2016,Coffee (London),GBR,0.35,1.74,164
+742,1/11/2016,Porridge (Kraków),POL,0.99,4.96,451
+743,1/12/2016,Tomato Juice (Kraków),POL,0.59,2.94,427
+744,1/13/2016,BLT Sandwich (Gdańsk),POL,0.7,3.52,482
+745,1/14/2016,Still Water (Edinburgh),GBR,0.61,3.03,276
+746,1/15/2016,Lemon & Ginger Tea (Melbourne),AUS,0.34,1.7,298
+747,1/16/2016,Chicken Fajita Wrap (Canberra),AUS,1.07,5.37,178
+748,1/17/2016,Fruit Box (Kraków),POL,0.94,4.71,227
+749,1/18/2016,Tuna Melt Panini (Auckland),NZL,1.02,5.08,443
+750,1/19/2016,BLT Sandwich (Galway),IRL,0.81,4.03,453
+751,1/20/2016,Chocolate Chip Muffin (Portland),USA,0.89,4.45,219
+752,1/21/2016,Apple Juice (Lausanne),CHE,0.35,1.74,138
+753,1/22/2016,Orange Juice (Edinburgh),GBR,0.41,2.06,166
+754,1/23/2016,Lemon & Ginger Tea (Sønderborg),DNK,0.98,4.88,126
+755,1/24/2016,Sparkling Water (Odense),DNK,0.68,3.38,333
+756,1/25/2016,Blueberry Muffin (Tromsø),NOR,0.43,2.15,216
+757,1/26/2016,Almond Croissant (Dresden),DEU,0.71,3.57,120
+758,1/27/2016,Yoghurt (Galway),IRL,0.94,4.7,327
+759,1/28/2016,Peach Juice (Katowice),POL,0.99,4.96,160
+760,1/29/2016,Chicken Fajita Wrap (Katowice),POL,0.74,3.68,104
+761,1/30/2016,BLT Sandwich (Graz),AUT,0.81,4.04,136
+762,1/31/2016,Still Water (Toronto),CAN,0.85,4.23,387
+763,2/1/2016,Butter Croissant (Austin),USA,0.98,4.89,205
+764,2/2/2016,Orange Juice (Tromsø),NOR,0.53,2.64,139
+765,2/3/2016,Sparkling Water (Toulouse),FRA,0.76,3.79,434
+766,2/4/2016,Green Tea (London),GBR,0.63,3.16,445
+767,2/5/2016,Granola Bar (Auckland),NZL,0.6,3.01,457
+768,2/6/2016,Coffee (Odense),DNK,0.96,4.78,491
+769,2/7/2016,Tomato Juice (Toronto),CAN,0.68,3.42,310
+770,2/8/2016,Peach Juice (Austin),USA,0.99,4.97,366
+771,2/9/2016,Tea (Hamilton),NZL,0.43,2.16,482
+772,2/10/2016,Cheese & Pickle Sandwich (Katowice),POL,0.87,4.33,359
+773,2/11/2016,Almond Croissant (Hamilton),NZL,0.45,2.23,140
+774,2/12/2016,Green Tea (Hamilton),NZL,0.51,2.54,283
+775,2/13/2016,Chocolate Twist (Paris),FRA,0.82,4.08,216
+776,2/14/2016,Lemon & Ginger Tea (Salzburg),AUT,0.58,2.92,315
+777,2/15/2016,Toast (Strasbourg),FRA,0.97,4.85,322
+778,2/16/2016,Tuna Melt Panini (Portland),USA,0.59,2.93,100
+779,2/17/2016,Ham & Cheese Toastie (Auckland),NZL,0.96,4.8,341
+780,2/18/2016,Chocolate Chip Muffin (Glasgow),GBR,0.34,1.68,354
+781,2/19/2016,Cheese & Pickle Sandwich (Glasgow),GBR,0.58,2.92,157
+782,2/20/2016,Fruit Box (Stuttgart),DEU,0.34,1.69,314
+783,2/21/2016,BLT Sandwich (London),GBR,0.95,4.74,145
+784,2/22/2016,Chicken Fajita Wrap (Hamilton),NZL,0.73,3.66,168
+785,2/23/2016,Sparkling Water (San Diego),USA,0.44,2.22,276
+786,2/24/2016,Chocolate Chip Muffin (Galway),IRL,0.6,3.02,337
+787,2/25/2016,Still Water (Kirkland),USA,0.93,4.64,146
+788,2/26/2016,Toast (San Francisco),USA,0.43,2.13,146
+789,2/27/2016,Peach Juice (Glasgow),GBR,0.77,3.85,467
+790,2/28/2016,Cheese & Pickle Sandwich (Boston),USA,1.08,5.42,169
+791,3/1/2016,Almond Croissant (Canberra),AUS,0.75,3.76,197
+792,3/2/2016,Yoghurt (Lille),FRA,0.94,4.68,240
+793,3/3/2016,Porridge (Copenhagan),DNK,0.32,1.62,167
+794,3/4/2016,Ham & Cheese Toastie (Graz),AUT,1.05,5.23,320
+795,3/5/2016,Tea (Seattle),USA,0.99,4.97,188
+796,3/6/2016,Apple Juice (Hamburg),DEU,0.75,3.74,153
+797,3/7/2016,Almond Croissant (Paris),FRA,0.87,4.33,123
+798,3/8/2016,Tuna Melt Panini (Gdańsk),POL,1.07,5.35,108
+799,3/9/2016,Ham & Cheese Toastie (Seattle),USA,0.87,4.36,123
+800,3/10/2016,Cheese & Pickle Sandwich (Kirkland),USA,0.68,3.39,421
+801,3/11/2016,Fruit Box (Vancouver),CAN,0.42,2.1,138
+802,3/12/2016,Toast (Tromsø),NOR,0.99,4.97,313
+803,3/13/2016,Almond Croissant (Kirkland),USA,0.39,1.96,256
+804,3/14/2016,Ham & Cheese Toastie (Sønderborg),DNK,1.05,5.23,357
+805,3/15/2016,Almond Croissant (San Francisco),USA,1,5,491
+806,3/16/2016,Granola Bar (Munich),DEU,0.53,2.66,478
+807,3/17/2016,Porridge (Dublin),IRL,0.31,1.55,447
+808,3/18/2016,Chocolate Chip Muffin (Glasgow),GBR,0.58,2.89,322
+809,3/19/2016,Chicken Fajita Wrap (Madison),USA,0.98,4.91,447
+810,3/20/2016,Ham & Cheese Toastie (Strasbourg),FRA,1.07,5.33,330
+811,3/21/2016,Granola Bar (San Francisco),USA,0.78,3.92,424
+812,3/22/2016,Chicken Fajita Wrap (Gdańsk),POL,0.53,2.63,473
+813,3/23/2016,Tuna Melt Panini (Toronto),CAN,0.96,4.81,105
+814,3/24/2016,Toast (San Diego),USA,0.68,3.4,336
+815,3/25/2016,Granola Bar (Toronto),CAN,1.06,5.29,304
+816,3/26/2016,Peach Juice (Gdańsk),POL,0.76,3.79,430
+817,3/27/2016,Blueberry Muffin (London),GBR,0.57,2.85,280
+818,3/28/2016,Tomato Juice (Kraków),POL,0.59,2.94,231
+819,3/29/2016,Lemon & Ginger Tea (Strasbourg),FRA,0.73,3.66,357
+820,3/30/2016,Orange Juice (Seattle),USA,0.45,2.25,148
+821,3/31/2016,Orange Juice (Edinburgh),GBR,0.6,2.99,131
+822,4/1/2016,Coffee (Kraków),POL,0.84,4.21,306
+823,4/2/2016,Tuna Melt Panini (Munich),DEU,0.85,4.26,191
+824,4/3/2016,Orange Juice (Auckland),NZL,1.07,5.34,403
+825,4/4/2016,Still Water (Stuttgart),DEU,0.38,1.9,131
+826,4/5/2016,Toast (Stuttgart),DEU,0.44,2.22,267
+827,4/6/2016,Butter Croissant (Portland),USA,0.34,1.68,333
+828,4/7/2016,Blueberry Muffin (Austin),USA,0.32,1.58,326
+829,4/8/2016,Green Tea (Strasbourg),FRA,0.47,2.33,487
+830,4/9/2016,Granola Bar (Toulouse),FRA,1.01,5.07,121
+831,4/10/2016,Porridge (Berlin),DEU,0.58,2.88,139
+832,4/11/2016,Apple Juice (Cardiff),GBR,0.52,2.62,450
+833,4/12/2016,Butter Croissant (Cardiff),GBR,0.54,2.68,450
+834,4/13/2016,Blueberry Muffin (Dublin),IRL,0.36,1.82,488
+835,4/14/2016,Green Tea (Lille),FRA,0.79,3.95,167
+836,4/15/2016,Green Tea (Auckland),NZL,0.55,2.75,462
+837,4/16/2016,Fruit Box (Geneva),CHE,0.52,2.59,288
+838,4/17/2016,Lemon & Ginger Tea (Southampton),GBR,0.43,2.13,481
+839,4/18/2016,Porridge (London),GBR,0.85,4.27,151
+840,4/19/2016,Tomato Juice (Lille),FRA,0.98,4.9,186
+841,4/20/2016,Sparkling Water (Gdańsk),POL,0.64,3.21,169
+842,4/21/2016,Orange Juice (Dublin),IRL,0.53,2.63,498
+843,4/22/2016,Chicken Fajita Wrap (Edinburgh),GBR,0.62,3.1,151
+844,4/23/2016,Chocolate Chip Muffin (Stuttgart),DEU,0.96,4.81,276
+845,4/24/2016,Tea (Madison),USA,0.33,1.65,463
+846,4/25/2016,Peach Juice (Portland),USA,1.04,5.21,234
+847,4/26/2016,Yoghurt (Hamilton),NZL,0.69,3.46,172
+848,4/27/2016,Tuna Melt Panini (Stuttgart),DEU,0.55,2.75,476
+849,4/28/2016,Yoghurt (Canberra),AUS,0.75,3.77,198
+850,4/29/2016,Tea (Manchester),GBR,1.08,5.38,347
+851,4/30/2016,Toast (Potsdam),DEU,0.65,3.24,383
+852,5/1/2016,Almond Croissant (Odense),DNK,0.97,4.84,360
+853,5/2/2016,Sparkling Water (Portland),USA,0.45,2.24,419
+854,5/3/2016,Fruit Box (Portland),USA,0.89,4.47,178
+855,5/4/2016,Chocolate Chip Muffin (Birmingham),GBR,0.67,3.37,465
+856,5/5/2016,Chicken Fajita Wrap (Kraków),POL,0.54,2.69,479
+857,5/6/2016,Blueberry Muffin (Potsdam),DEU,0.5,2.52,184
+858,5/7/2016,Tea (Melbourne),AUS,1,5.01,386
+859,5/8/2016,Fruit Box (Seattle),USA,0.68,3.42,468
+860,5/9/2016,Toast (Sydney),AUS,0.8,4.01,478
+861,5/10/2016,Coffee (Copenhagan),DNK,0.57,2.85,317
+862,5/11/2016,Green Tea (Hamburg),DEU,0.57,2.83,183
+863,5/12/2016,Chicken Salad Sandwich (Dresden),DEU,0.32,1.62,343
+864,5/13/2016,Granola Bar (Canberra),AUS,0.94,4.69,137
+865,5/14/2016,Yoghurt (Vancouver),CAN,0.32,1.62,390
+866,5/15/2016,Chicken Fajita Wrap (Hamburg),DEU,0.46,2.28,258
+867,5/16/2016,Porridge (Munich),DEU,0.74,3.7,240
+868,5/17/2016,Green Tea (Sydney),AUS,1.08,5.41,296
+869,5/18/2016,Tea (Kraków),POL,1,5.02,114
+870,5/19/2016,Chicken Fajita Wrap (Gdańsk),POL,0.42,2.12,369
+871,5/20/2016,Peach Juice (Toronto),CAN,0.76,3.8,491
+872,5/21/2016,Fruit Box (Copenhagan),DNK,1.02,5.12,137
+873,5/22/2016,Blueberry Muffin (Strasbourg),FRA,1.05,5.27,402
+874,5/23/2016,Chocolate Chip Muffin (Geneva),CHE,1.07,5.33,167
+875,5/24/2016,Fruit Box (Glasgow),GBR,0.43,2.14,297
+876,5/25/2016,Chocolate Chip Muffin (Potsdam),DEU,0.54,2.7,327
+877,5/26/2016,Almond Croissant (Munich),DEU,0.91,4.54,308
+878,5/27/2016,Lemon & Ginger Tea (Katowice),POL,0.87,4.36,345
+879,5/28/2016,Blueberry Muffin (Strasbourg),FRA,0.37,1.86,464
+880,5/29/2016,Peach Juice (Berlin),DEU,0.9,4.51,260
+881,5/30/2016,Still Water (Berlin),DEU,0.66,3.29,483
+882,5/31/2016,Apple Juice (Tromsø),NOR,0.91,4.54,319
+883,6/1/2016,Apple Juice (Dublin),IRL,0.84,4.21,309
+884,6/2/2016,Orange Juice (Toronto),CAN,0.41,2.05,212
+885,6/3/2016,Porridge (Tromsø),NOR,0.78,3.88,206
+886,6/4/2016,Tea (Brussels),BEL,1.02,5.08,425
+887,6/5/2016,Butter Croissant (Hamilton),NZL,1.08,5.4,199
+888,6/6/2016,Toast (Galway),IRL,0.96,4.79,468
+889,6/7/2016,BLT Sandwich (San Diego),USA,0.77,3.85,217
+890,6/8/2016,Green Tea (Melbourne),AUS,0.39,1.93,101
+891,6/9/2016,Porridge (Galway),IRL,0.91,4.56,143
+892,6/10/2016,Lemon & Ginger Tea (Manchester),GBR,0.64,3.21,380
+893,6/11/2016,Cheese & Pickle Sandwich (Lille),FRA,0.49,2.43,416
+894,6/12/2016,Yoghurt (Vancouver),CAN,0.82,4.12,491
+895,6/13/2016,Sparkling Water (Geneva),CHE,0.76,3.8,177
+896,6/14/2016,Chocolate Chip Muffin (Birmingham),GBR,0.7,3.5,150
+897,6/15/2016,Chicken Salad Sandwich (Portland),USA,1.01,5.05,467
+898,6/16/2016,Granola Bar (Southampton),GBR,0.34,1.72,111
+899,6/17/2016,Cheese & Pickle Sandwich (Tromsø),NOR,0.48,2.39,377
+900,6/18/2016,Chicken Fajita Wrap (Toulouse),FRA,0.87,4.33,152
+901,6/19/2016,Chocolate Chip Muffin (Austin),USA,0.97,4.87,150
+902,6/20/2016,Cheese & Pickle Sandwich (San Francisco),USA,0.96,4.78,457
+903,6/21/2016,Tea (Kraków),POL,1.09,5.46,310
+904,6/22/2016,Butter Croissant (Edinburgh),GBR,0.94,4.72,140
+905,6/23/2016,Porridge (Kirkland),USA,0.59,2.97,175
+906,6/24/2016,Orange Juice (Lausanne),CHE,0.42,2.09,184
+907,6/25/2016,Coffee (London),GBR,0.76,3.8,253
+908,6/26/2016,Ham & Cheese Toastie (Gdańsk),POL,0.98,4.91,186
+909,6/27/2016,BLT Sandwich (Sønderborg),DNK,0.68,3.39,126
+910,6/28/2016,Lemon & Ginger Tea (Stockholm),SWE,1.03,5.13,410
+911,6/29/2016,Tomato Juice (Sønderborg),DNK,0.84,4.18,348
+912,6/30/2016,Apple Juice (Hamburg),DEU,0.81,4.03,355
+913,7/1/2016,Tomato Juice (Strasbourg),FRA,0.53,2.67,429
+914,7/2/2016,Lemon & Ginger Tea (Edinburgh),GBR,0.8,4,279
+915,7/3/2016,BLT Sandwich (Toronto),CAN,0.46,2.29,322
+916,7/4/2016,Granola Bar (Potsdam),DEU,1.04,5.18,208
+917,7/5/2016,Granola Bar (Boston),USA,0.73,3.65,487
+918,7/6/2016,Almond Croissant (Odense),DNK,0.72,3.6,228
+919,7/7/2016,Still Water (Melbourne),AUS,0.64,3.18,282
+920,7/8/2016,Chicken Salad Sandwich (Munich),DEU,0.54,2.71,284
+921,7/9/2016,Porridge (London),GBR,0.69,3.45,391
+922,7/10/2016,Chocolate Twist (Manchester),GBR,0.52,2.62,384
+923,7/11/2016,Sparkling Water (Katowice),POL,0.94,4.68,156
+924,7/12/2016,Almond Croissant (Edinburgh),GBR,0.49,2.45,400
+925,7/13/2016,Yoghurt (Sydney),AUS,0.94,4.72,177
+926,7/14/2016,Almond Croissant (Brussels),BEL,0.36,1.81,185
+927,7/15/2016,Tea (Madison),USA,0.39,1.97,152
+928,7/16/2016,Yoghurt (Portland),USA,0.57,2.85,241
+929,7/17/2016,Toast (Toulouse),FRA,0.75,3.76,404
+930,7/18/2016,Blueberry Muffin (San Diego),USA,0.96,4.81,495
+931,7/19/2016,Apple Juice (Hamburg),DEU,0.89,4.44,273
+932,7/20/2016,Cheese & Pickle Sandwich (Geneva),CHE,0.51,2.55,148
+933,7/21/2016,Tuna Melt Panini (Katowice),POL,0.73,3.64,343
+934,7/22/2016,Fruit Box (Stockholm),SWE,1.06,5.32,152
+935,7/23/2016,Cheese & Pickle Sandwich (San Diego),USA,0.91,4.55,230
+936,7/24/2016,Apple Juice (Katowice),POL,0.93,4.65,375
+937,7/25/2016,Butter Croissant (Berlin),DEU,0.82,4.11,449
+938,7/26/2016,Granola Bar (Stuttgart),DEU,0.85,4.23,225
+939,7/27/2016,Chocolate Chip Muffin (Portland),USA,0.64,3.2,149
+940,7/28/2016,Fruit Box (Toronto),CAN,1.05,5.25,144
+941,7/29/2016,Sparkling Water (Vancouver),CAN,0.3,1.51,263
+942,7/30/2016,Sparkling Water (Southampton),GBR,1.05,5.26,137
+943,7/31/2016,Toast (Graz),AUT,0.63,3.14,427
+944,8/1/2016,Fruit Box (Katowice),POL,0.69,3.46,482
+945,8/2/2016,Tea (Vancouver),CAN,0.72,3.58,447
+946,8/3/2016,Coffee (Strasbourg),FRA,1.08,5.42,432
+947,8/4/2016,Still Water (Boston),USA,1.04,5.21,104
+948,8/5/2016,Apple Juice (San Diego),USA,0.35,1.73,224
+949,8/6/2016,Tomato Juice (Geneva),CHE,1.06,5.29,118
+950,8/7/2016,Yoghurt (Geneva),CHE,0.86,4.28,161
+951,8/8/2016,Still Water (Birmingham),GBR,0.55,2.75,487
+952,8/9/2016,Chocolate Twist (Dresden),DEU,0.34,1.69,259
+953,8/10/2016,Tomato Juice (Strasbourg),FRA,0.49,2.47,209
+954,8/11/2016,Apple Juice (San Francisco),USA,0.35,1.77,471
+955,8/12/2016,Almond Croissant (Strasbourg),FRA,0.77,3.83,168
+956,8/13/2016,Coffee (Katowice),POL,0.95,4.75,437
+957,8/14/2016,Lemon & Ginger Tea (Canberra),AUS,0.83,4.15,119
+958,8/15/2016,Fruit Box (Strasbourg),FRA,0.69,3.43,242
+959,8/16/2016,Orange Juice (San Francisco),USA,0.69,3.46,368
+960,8/17/2016,Ham & Cheese Toastie (Glasgow),GBR,0.46,2.29,377
+961,8/18/2016,Almond Croissant (Dublin),IRL,1.02,5.08,216
+962,8/19/2016,Coffee (Cardiff),GBR,0.52,2.61,200
+963,8/20/2016,Still Water (Sydney),AUS,0.89,4.44,386
+964,8/21/2016,Fruit Box (London),GBR,0.35,1.73,190
+965,8/22/2016,Tomato Juice (Odense),DNK,0.62,3.11,385
+966,8/23/2016,BLT Sandwich (Auckland),NZL,0.41,2.07,405
+967,8/24/2016,Apple Juice (Lille),FRA,0.99,4.96,129
+968,8/25/2016,Tea (Potsdam),DEU,0.82,4.08,397
+969,8/26/2016,Tuna Melt Panini (Copenhagan),DNK,0.77,3.83,455
+970,8/27/2016,Orange Juice (Lille),FRA,0.9,4.49,327
+971,8/28/2016,Granola Bar (Copenhagan),DNK,0.82,4.1,370
+972,8/29/2016,Blueberry Muffin (Madison),USA,0.49,2.44,468
+973,8/30/2016,Porridge (San Diego),USA,0.98,4.88,288
+974,8/31/2016,Toast (Munich),DEU,1.07,5.36,439
+975,9/1/2016,Yoghurt (Graz),AUT,1.08,5.39,377
+976,9/2/2016,Peach Juice (Katowice),POL,0.94,4.69,390
+977,9/3/2016,Chicken Fajita Wrap (Copenhagan),DNK,0.57,2.87,119
+978,9/4/2016,Peach Juice (Kraków),POL,0.72,3.58,139
+979,9/5/2016,Porridge (Gdańsk),POL,0.79,3.97,271
+980,9/6/2016,Apple Juice (Sønderborg),DNK,0.81,4.04,388
+981,9/7/2016,Chocolate Twist (Southampton),GBR,1.01,5.06,466
+982,9/8/2016,Butter Croissant (Albuquerque),USA,0.97,4.84,386
+983,9/9/2016,Chocolate Chip Muffin (San Diego),USA,0.5,2.49,372
+984,9/10/2016,Coffee (Geneva),CHE,1.05,5.23,498
+985,9/11/2016,Chocolate Chip Muffin (Vancouver),CAN,0.94,4.68,238
+986,9/12/2016,Tuna Melt Panini (Boston),USA,0.55,2.73,411
+987,9/13/2016,Fruit Box (Auckland),NZL,0.43,2.16,409
+988,9/14/2016,Chicken Fajita Wrap (Stuttgart),DEU,0.86,4.32,344
+989,9/15/2016,Lemon & Ginger Tea (Toronto),CAN,0.44,2.22,101
+990,9/16/2016,Fruit Box (Berlin),DEU,0.93,4.64,291
+991,9/17/2016,Yoghurt (Munich),DEU,0.67,3.34,221
+992,9/18/2016,Yoghurt (Tromsø),NOR,0.69,3.45,210
+993,9/19/2016,Chocolate Twist (Graz),AUT,0.85,4.27,358
+994,9/20/2016,Yoghurt (Southampton),GBR,0.41,2.04,329
+995,9/21/2016,Chicken Salad Sandwich (London),GBR,0.84,4.19,261
+996,9/22/2016,Fruit Box (Tromsø),NOR,0.57,2.83,300
+997,9/23/2016,Almond Croissant (Tromsø),NOR,0.87,4.33,326
+998,9/24/2016,Cheese & Pickle Sandwich (Toulouse),FRA,1.04,5.2,178
+999,9/25/2016,Tomato Juice (Manchester),GBR,0.72,3.58,295
+1000,9/26/2016,Chocolate Chip Muffin (Austin),USA,0.37,1.85,142
+1001,9/27/2016,Apple Juice (Madison),USA,0.91,4.53,382
+1002,9/28/2016,Cheese & Pickle Sandwich (Toronto),CAN,0.48,2.41,150
+1003,9/29/2016,BLT Sandwich (Gdańsk),POL,0.75,3.76,221
+1004,9/30/2016,Cheese & Pickle Sandwich (Katowice),POL,0.68,3.39,482
+1005,10/1/2016,Yoghurt (Lausanne),CHE,0.68,3.41,293
+1006,10/2/2016,Chocolate Twist (Kraków),POL,0.82,4.1,292
+1007,10/3/2016,Cheese & Pickle Sandwich (Boston),USA,1.1,5.49,154
+1008,10/4/2016,Peach Juice (Brussels),BEL,0.34,1.68,145
+1009,10/5/2016,Coffee (Brussels),BEL,0.53,2.66,152
+1010,10/6/2016,Cheese & Pickle Sandwich (Glasgow),GBR,1.08,5.39,190
+1011,10/7/2016,Green Tea (Graz),AUT,0.79,3.94,154
+1012,10/8/2016,Sparkling Water (Geneva),CHE,0.76,3.8,127
+1013,10/9/2016,Butter Croissant (Brussels),BEL,0.97,4.85,329
+1014,10/10/2016,Orange Juice (Lille),FRA,1.09,5.46,192
+1015,10/11/2016,Peach Juice (Birmingham),GBR,0.96,4.8,299
+1016,10/12/2016,Peach Juice (Sønderborg),DNK,0.58,2.9,307
+1017,10/13/2016,Blueberry Muffin (Galway),IRL,0.62,3.1,130
+1018,10/14/2016,Toast (Edinburgh),GBR,0.78,3.88,139
+1019,10/15/2016,Blueberry Muffin (Hamilton),NZL,1.07,5.33,386
+1020,10/16/2016,Green Tea (Boston),USA,0.38,1.88,129
+1021,10/17/2016,Apple Juice (Tromsø),NOR,0.53,2.64,189
+1022,10/18/2016,Still Water (Dresden),DEU,0.67,3.34,253
+1023,10/19/2016,Tuna Melt Panini (Madison),USA,0.44,2.22,445
+1024,10/20/2016,Cheese & Pickle Sandwich (San Francisco),USA,0.52,2.6,440
+1025,10/21/2016,Orange Juice (Hamilton),NZL,0.4,2,452
+1026,10/22/2016,Tea (Salzburg),AUT,0.65,3.26,398
+1027,10/23/2016,Sparkling Water (Salzburg),AUT,0.52,2.62,106
+1028,10/24/2016,Porridge (Boston),USA,1.06,5.3,498
+1029,10/25/2016,Almond Croissant (Edinburgh),GBR,0.86,4.3,386
+1030,10/26/2016,Fruit Box (London),GBR,0.74,3.69,392
+1031,10/27/2016,Green Tea (Canberra),AUS,0.83,4.16,110
+1032,10/28/2016,Coffee (Stuttgart),DEU,0.88,4.4,361
+1033,10/29/2016,Coffee (Kraków),POL,1.09,5.46,403
+1034,10/30/2016,Still Water (Albuquerque),USA,0.83,4.13,463
+1035,10/31/2016,Cheese & Pickle Sandwich (Glasgow),GBR,0.85,4.24,258
+1036,11/1/2016,Cheese & Pickle Sandwich (Salzburg),AUT,0.58,2.88,210
+1037,11/2/2016,Chicken Fajita Wrap (Toronto),CAN,0.81,4.04,347
+1038,11/3/2016,Almond Croissant (Austin),USA,0.63,3.17,422
+1039,11/4/2016,Tea (Birmingham),GBR,0.59,2.95,343
+1040,11/5/2016,Sparkling Water (Stuttgart),DEU,0.31,1.57,280
+1041,11/6/2016,Tuna Melt Panini (Boston),USA,0.75,3.73,343
+1042,11/7/2016,Lemon & Ginger Tea (Vancouver),CAN,1.01,5.07,375
+1043,11/8/2016,Yoghurt (Brussels),BEL,0.54,2.68,408
+1044,11/9/2016,Green Tea (Kirkland),USA,1.07,5.33,280
+1045,11/10/2016,Almond Croissant (Berlin),DEU,0.37,1.83,433
+1046,11/11/2016,Sparkling Water (Katowice),POL,0.41,2.05,299
+1047,11/12/2016,Peach Juice (Lille),FRA,0.59,2.95,474
+1048,11/13/2016,Almond Croissant (Gdańsk),POL,0.31,1.57,141
+1049,11/14/2016,BLT Sandwich (Tromsø),NOR,0.36,1.79,439
+1050,11/15/2016,Ham & Cheese Toastie (Cardiff),GBR,0.97,4.87,182
+1051,11/16/2016,Still Water (Vancouver),CAN,0.99,4.96,472
+1052,11/17/2016,Chicken Fajita Wrap (Glasgow),GBR,0.86,4.28,461
+1053,11/18/2016,Tea (Austin),USA,0.36,1.82,341
+1054,11/19/2016,Toast (Sydney),AUS,0.99,4.93,378
+1055,11/20/2016,Peach Juice (Madison),USA,1.05,5.25,492
+1056,11/21/2016,Granola Bar (London),GBR,1.02,5.08,244
+1057,11/22/2016,Apple Juice (Hamburg),DEU,0.95,4.74,161
+1058,11/23/2016,Chicken Salad Sandwich (London),GBR,0.36,1.8,420
+1059,11/24/2016,Lemon & Ginger Tea (San Diego),USA,0.31,1.53,496
+1060,11/25/2016,Chicken Salad Sandwich (Canberra),AUS,0.95,4.74,472
+1061,11/26/2016,Granola Bar (Albuquerque),USA,1.01,5.07,224
+1062,11/27/2016,Lemon & Ginger Tea (Katowice),POL,0.48,2.39,295
+1063,11/28/2016,Tomato Juice (Lausanne),CHE,0.51,2.53,193
+1064,11/29/2016,Granola Bar (Graz),AUT,0.37,1.84,293
+1065,11/30/2016,Tea (Potsdam),DEU,0.73,3.67,150
+1066,12/1/2016,Tomato Juice (San Francisco),USA,0.34,1.7,307
+1067,12/2/2016,Tea (Kraków),POL,1.03,5.15,442
+1068,12/3/2016,Coffee (Kirkland),USA,1,4.99,163
+1069,12/4/2016,Tomato Juice (Edinburgh),GBR,0.91,4.54,452
+1070,12/5/2016,Fruit Box (Portland),USA,0.37,1.86,237
+1071,12/6/2016,Chocolate Chip Muffin (Tromsø),NOR,0.98,4.9,179
+1072,12/7/2016,Coffee (Sønderborg),DNK,0.68,3.38,176
+1073,12/8/2016,Sparkling Water (Canberra),AUS,0.75,3.74,465
+1074,12/9/2016,Chicken Fajita Wrap (Sydney),AUS,0.4,1.98,469
+1075,12/10/2016,Orange Juice (Stuttgart),DEU,0.8,4,274
+1076,12/11/2016,Blueberry Muffin (Albuquerque),USA,0.73,3.64,312
+1077,12/12/2016,Fruit Box (Canberra),AUS,0.73,3.64,410
+1078,12/13/2016,Orange Juice (Southampton),GBR,1.05,5.23,159
+1079,12/14/2016,Almond Croissant (Seattle),USA,0.63,3.15,489
+1080,12/15/2016,Chicken Fajita Wrap (Toulouse),FRA,0.59,2.96,393
+1081,12/16/2016,Still Water (Birmingham),GBR,0.52,2.61,370
+1082,12/17/2016,Apple Juice (Southampton),GBR,0.95,4.73,500
+1083,12/18/2016,Porridge (Geneva),CHE,0.79,3.93,383
+1084,12/19/2016,Apple Juice (Paris),FRA,0.88,4.42,121
+1085,12/20/2016,Yoghurt (Southampton),GBR,0.72,3.59,169
+1086,12/21/2016,Apple Juice (Kirkland),USA,0.52,2.62,236
+1087,12/22/2016,Green Tea (Hamilton),NZL,0.57,2.85,395
+1088,12/23/2016,Ham & Cheese Toastie (Cardiff),GBR,0.93,4.66,318
+1089,12/24/2016,Chocolate Chip Muffin (Albuquerque),USA,0.69,3.44,219
+1090,12/25/2016,Tomato Juice (Munich),DEU,1,5,287
+1091,12/26/2016,Almond Croissant (Southampton),GBR,1.03,5.13,122
+1092,12/27/2016,Almond Croissant (Kraków),POL,1,5.02,458
+1093,12/28/2016,Blueberry Muffin (San Diego),USA,0.83,4.16,460
+1094,12/29/2016,Coffee (Canberra),AUS,1.04,5.18,494
+1095,12/30/2016,Peach Juice (Galway),IRL,1.08,5.4,415
+1096,12/31/2016,Peach Juice (Katowice),POL,0.32,1.58,480
+1097,1/1/2016,Tea (Birmingham),GBR,0.87,4.36,299
+1098,1/2/2016,Chocolate Twist (Melbourne),AUS,1.05,5.25,236
+1099,1/3/2016,Granola Bar (San Francisco),USA,0.31,1.54,127
+1100,1/4/2016,Tea (Hamilton),NZL,0.95,4.73,218
+1101,1/5/2016,Butter Croissant (Madison),USA,0.89,4.44,450
+1102,1/6/2016,Yoghurt (San Francisco),USA,0.37,1.87,301
+1103,1/7/2016,Almond Croissant (Brussels),BEL,0.8,4.01,318
+1104,1/8/2016,Orange Juice (Kirkland),USA,0.65,3.23,343
+1105,1/9/2016,Chocolate Twist (Geneva),CHE,0.74,3.7,428
+1106,1/10/2016,Almond Croissant (Geneva),CHE,1.01,5.04,267
+1107,1/11/2016,Green Tea (Lille),FRA,1.03,5.13,108
+1108,1/12/2016,Coffee (Munich),DEU,0.37,1.87,166
+1109,1/13/2016,Yoghurt (Glasgow),GBR,0.78,3.92,483
+1110,1/14/2016,Still Water (Glasgow),GBR,0.42,2.11,235
+1111,1/15/2016,Cheese & Pickle Sandwich (Melbourne),AUS,0.32,1.59,388
+1112,1/16/2016,Chicken Fajita Wrap (Potsdam),DEU,0.53,2.63,432
+1113,1/17/2016,Still Water (Odense),DNK,0.8,3.98,276
+1114,1/18/2016,Tomato Juice (Albuquerque),USA,0.39,1.94,421
+1115,1/19/2016,Green Tea (Albuquerque),USA,0.64,3.2,242
+1116,1/20/2016,Chocolate Twist (Lausanne),CHE,0.56,2.81,322
+1117,1/21/2016,Yoghurt (Galway),IRL,0.43,2.13,248
+1118,1/22/2016,Blueberry Muffin (Galway),IRL,1.06,5.3,190
+1119,1/23/2016,Green Tea (Seattle),USA,1,5,205
+1120,1/24/2016,Chocolate Twist (Toronto),CAN,0.54,2.72,442
+1121,1/25/2016,Yoghurt (Graz),AUT,0.68,3.42,128
+1122,1/26/2016,Green Tea (Kraków),POL,1.08,5.39,280
+1123,1/27/2016,Peach Juice (Southampton),GBR,0.79,3.97,215
+1124,1/28/2016,BLT Sandwich (Hamilton),NZL,0.83,4.13,416
+1125,1/29/2016,Granola Bar (San Diego),USA,1.08,5.42,183
+1126,1/30/2016,Tea (Birmingham),GBR,0.34,1.72,487
+1127,1/31/2016,Fruit Box (Stockholm),SWE,0.83,4.13,460
+1128,2/1/2016,Still Water (Gdańsk),POL,0.98,4.89,101
+1129,2/2/2016,Blueberry Muffin (Glasgow),GBR,0.38,1.92,345
+1130,2/3/2016,Blueberry Muffin (San Francisco),USA,0.98,4.92,210
+1131,2/4/2016,Chicken Salad Sandwich (Graz),AUT,0.32,1.6,130
+1132,2/5/2016,Tomato Juice (Cardiff),GBR,1,4.98,498
+1133,2/6/2016,Granola Bar (Madison),USA,0.31,1.54,328
+1134,2/7/2016,Tea (Boston),USA,1,5.02,378
+1135,2/8/2016,Yoghurt (Seattle),USA,0.68,3.39,117
+1136,2/9/2016,Tea (Kraków),POL,0.68,3.4,430
+1137,2/10/2016,BLT Sandwich (Vancouver),CAN,0.51,2.54,232
+1138,2/11/2016,Granola Bar (Lille),FRA,0.47,2.34,136
+1139,2/12/2016,Porridge (Hamburg),DEU,0.97,4.87,491
+1140,2/13/2016,Tuna Melt Panini (Austin),USA,0.4,1.99,474
+1141,2/14/2016,Toast (Potsdam),DEU,1.06,5.29,463
+1142,2/15/2016,Still Water (Berlin),DEU,0.94,4.7,327
+1143,2/16/2016,Peach Juice (Strasbourg),FRA,0.49,2.45,223
+1144,2/17/2016,Blueberry Muffin (Dresden),DEU,0.54,2.69,461
+1145,2/18/2016,Chocolate Chip Muffin (Tromsø),NOR,0.3,1.52,148
+1146,2/19/2016,Porridge (Toronto),CAN,0.96,4.82,475
+1147,2/20/2016,BLT Sandwich (Dublin),IRL,0.78,3.91,396
+1148,2/21/2016,Peach Juice (Southampton),GBR,0.73,3.65,470
+1149,2/22/2016,Coffee (Portland),USA,0.38,1.92,403
+1150,2/23/2016,Fruit Box (Hamilton),NZL,0.34,1.72,130
+1151,2/24/2016,Lemon & Ginger Tea (Portland),USA,0.73,3.64,453
+1152,2/25/2016,Coffee (Southampton),GBR,0.54,2.69,415
+1153,2/26/2016,Tuna Melt Panini (Edinburgh),GBR,0.46,2.31,192
+1154,2/27/2016,Tea (Lille),FRA,1.01,5.04,284
+1155,2/28/2016,Chicken Fajita Wrap (Brussels),BEL,0.91,4.56,244
+1156,3/1/2016,Almond Croissant (Munich),DEU,1.02,5.11,266
+1157,3/2/2016,BLT Sandwich (Hamilton),NZL,0.44,2.18,254
+1158,3/3/2016,Chicken Salad Sandwich (Kraków),POL,0.98,4.88,225
+1159,3/4/2016,Granola Bar (Berlin),DEU,0.64,3.19,304
+1160,3/5/2016,Porridge (Tromsø),NOR,0.95,4.77,364
+1161,3/6/2016,Fruit Box (Munich),DEU,0.98,4.88,301
+1162,3/7/2016,Chicken Salad Sandwich (Madison),USA,0.33,1.64,340
+1163,3/8/2016,Granola Bar (Strasbourg),FRA,0.54,2.72,143
+1164,3/9/2016,Toast (Sønderborg),DNK,0.66,3.31,204
+1165,3/10/2016,Blueberry Muffin (Copenhagan),DNK,0.82,4.1,395
+1166,3/11/2016,Orange Juice (Portland),USA,0.58,2.9,233
+1167,3/12/2016,Cheese & Pickle Sandwich (Sønderborg),DNK,0.81,4.06,212
+1168,3/13/2016,Sparkling Water (Hamilton),NZL,1.08,5.42,369
+1169,3/14/2016,Apple Juice (Hamburg),DEU,0.58,2.92,370
+1170,3/15/2016,Tea (Albuquerque),USA,0.53,2.67,254
+1171,3/16/2016,Lemon & Ginger Tea (Sydney),AUS,0.76,3.8,331
+1172,3/17/2016,Tomato Juice (Lille),FRA,0.82,4.1,195
+1173,3/18/2016,Fruit Box (Toulouse),FRA,1.09,5.44,131
+1174,3/19/2016,Blueberry Muffin (London),GBR,0.45,2.25,441
+1175,3/20/2016,Tea (Brussels),BEL,0.44,2.21,334
+1176,3/21/2016,Green Tea (Birmingham),GBR,0.46,2.31,130
+1177,3/22/2016,Chicken Salad Sandwich (Galway),IRL,0.79,3.94,436
+1178,3/23/2016,Tea (Vancouver),CAN,0.53,2.65,364
+1179,3/24/2016,Chicken Salad Sandwich (Portland),USA,0.73,3.64,161
+1180,3/25/2016,Chicken Salad Sandwich (Boston),USA,0.85,4.25,460
+1181,3/26/2016,Blueberry Muffin (Dublin),IRL,0.85,4.23,408
+1182,3/27/2016,BLT Sandwich (Geneva),CHE,0.93,4.63,147
+1183,3/28/2016,Coffee (Hamilton),NZL,0.52,2.58,450
+1184,3/29/2016,Toast (Odense),DNK,0.73,3.66,395
+1185,3/30/2016,Peach Juice (Toronto),CAN,0.8,4.01,474
+1186,3/31/2016,Almond Croissant (Edinburgh),GBR,0.85,4.26,379
+1187,4/1/2016,Porridge (Potsdam),DEU,1.04,5.21,311
+1188,4/2/2016,Chicken Salad Sandwich (Boston),USA,0.71,3.54,340
+1189,4/3/2016,Chocolate Twist (Albuquerque),USA,0.81,4.03,465
+1190,4/4/2016,Granola Bar (Salzburg),AUT,0.94,4.68,179
+1191,4/5/2016,Coffee (Seattle),USA,0.91,4.55,105
+1192,4/6/2016,Ham & Cheese Toastie (Seattle),USA,0.76,3.8,361
+1193,4/7/2016,Granola Bar (Hamburg),DEU,0.96,4.8,475
+1194,4/8/2016,Tuna Melt Panini (Madison),USA,1.01,5.05,379
+1195,4/9/2016,Almond Croissant (Geneva),CHE,0.47,2.37,259
+1196,4/10/2016,Granola Bar (Gdańsk),POL,0.74,3.7,415
+1197,4/11/2016,Tomato Juice (Geneva),CHE,0.76,3.79,338
+1198,4/12/2016,Butter Croissant (Vancouver),CAN,1.08,5.41,309
+1199,4/13/2016,Coffee (Brussels),BEL,1.03,5.16,456
+1200,4/14/2016,Chicken Fajita Wrap (Toronto),CAN,1.05,5.23,128
+1201,4/15/2016,Almond Croissant (Berlin),DEU,0.62,3.08,275
+1202,4/16/2016,Tomato Juice (Potsdam),DEU,0.78,3.9,121
+1203,4/17/2016,Cheese & Pickle Sandwich (Dresden),DEU,0.62,3.09,360
+1204,4/18/2016,Orange Juice (London),GBR,0.78,3.89,148
+1205,4/19/2016,Still Water (Birmingham),GBR,0.75,3.76,450
+1206,4/20/2016,Tomato Juice (Auckland),NZL,0.35,1.75,158
+1207,4/21/2016,Chicken Fajita Wrap (Melbourne),AUS,0.32,1.61,498
+1208,4/22/2016,Almond Croissant (Madison),USA,0.85,4.23,132
+1209,4/23/2016,Apple Juice (Canberra),AUS,0.31,1.53,293
+1210,4/24/2016,Orange Juice (Southampton),GBR,0.96,4.8,206
+1211,4/25/2016,Yoghurt (Sønderborg),DNK,0.78,3.9,377
+1212,4/26/2016,BLT Sandwich (Salzburg),AUT,0.47,2.33,146
+1213,4/27/2016,Tuna Melt Panini (Melbourne),AUS,1.07,5.37,149
+1214,4/28/2016,Sparkling Water (Tromsø),NOR,1.05,5.24,276
+1215,4/29/2016,Butter Croissant (Sydney),AUS,0.98,4.92,431
+1216,4/30/2016,Ham & Cheese Toastie (Gdańsk),POL,0.54,2.68,481
+1217,5/1/2016,Apple Juice (Lille),FRA,0.3,1.52,396
+1218,5/2/2016,Green Tea (Berlin),DEU,0.4,2.02,274
+1219,5/3/2016,Fruit Box (Sydney),AUS,0.42,2.09,319
+1220,5/4/2016,Granola Bar (Kraków),POL,0.68,3.41,131
+1221,5/5/2016,Peach Juice (Glasgow),GBR,0.89,4.45,180
+1222,5/6/2016,Tea (San Francisco),USA,0.93,4.65,257
+1223,5/7/2016,Orange Juice (Kraków),POL,0.33,1.64,116
+1224,5/8/2016,Butter Croissant (Galway),IRL,0.73,3.66,451
+1225,5/9/2016,Sparkling Water (Galway),IRL,0.51,2.55,304
+1226,5/10/2016,Orange Juice (Stuttgart),DEU,0.4,1.99,351
+1227,5/11/2016,Granola Bar (Austin),USA,1.08,5.39,166
+1228,5/12/2016,Peach Juice (Geneva),CHE,0.63,3.13,180
+1229,5/13/2016,Blueberry Muffin (Cardiff),GBR,0.55,2.73,394
+1230,5/14/2016,Chocolate Twist (Glasgow),GBR,0.85,4.23,100
+1231,5/15/2016,Peach Juice (Copenhagan),DNK,0.99,4.93,178
+1232,5/16/2016,Yoghurt (Boston),USA,0.71,3.55,365
+1233,5/17/2016,Ham & Cheese Toastie (Dublin),IRL,0.8,3.99,316
+1234,5/18/2016,Orange Juice (Vancouver),CAN,1.08,5.41,152
+1235,5/19/2016,Sparkling Water (Toulouse),FRA,0.53,2.66,231
+1236,5/20/2016,Ham & Cheese Toastie (Lausanne),CHE,1.08,5.42,323
+1237,5/21/2016,Tuna Melt Panini (Seattle),USA,0.67,3.36,320
+1238,5/22/2016,Chicken Salad Sandwich (Hamburg),DEU,0.66,3.28,403
+1239,5/23/2016,Coffee (Sønderborg),DNK,1.01,5.03,393
+1240,5/24/2016,Sparkling Water (Tromsø),NOR,0.73,3.65,185
+1241,5/25/2016,Apple Juice (Seattle),USA,0.78,3.9,259
+1242,5/26/2016,Toast (Kirkland),USA,0.93,4.63,356
+1243,5/27/2016,Chocolate Twist (Canberra),AUS,0.6,2.98,270
+1244,5/28/2016,Still Water (Toulouse),FRA,0.73,3.64,163
+1245,5/29/2016,Sparkling Water (Strasbourg),FRA,1.06,5.31,261
+1246,5/30/2016,Butter Croissant (Toronto),CAN,0.52,2.6,299
+1247,5/31/2016,Green Tea (Tromsø),NOR,0.62,3.08,314
+1248,6/1/2016,Porridge (London),GBR,0.71,3.56,417
+1249,6/2/2016,Chicken Salad Sandwich (Madison),USA,0.67,3.37,246
+1250,6/3/2016,Porridge (Stockholm),SWE,0.64,3.18,272
+1251,6/4/2016,Apple Juice (Gdańsk),POL,0.78,3.89,115
+1252,6/5/2016,Fruit Box (Hamilton),NZL,0.86,4.3,469
+1253,6/6/2016,Blueberry Muffin (Hamilton),NZL,0.52,2.6,332
+1254,6/7/2016,Cheese & Pickle Sandwich (Seattle),USA,0.65,3.27,324
+1255,6/8/2016,Sparkling Water (Odense),DNK,0.9,4.51,435
+1256,6/9/2016,Chicken Fajita Wrap (Gdańsk),POL,1.03,5.16,194
+1257,6/10/2016,Yoghurt (Madison),USA,0.43,2.15,114
+1258,6/11/2016,Ham & Cheese Toastie (Paris),FRA,1.08,5.39,186
+1259,6/12/2016,Cheese & Pickle Sandwich (Southampton),GBR,0.79,3.97,146
+1260,6/13/2016,Tuna Melt Panini (Paris),FRA,0.78,3.88,106
+1261,6/14/2016,Lemon & Ginger Tea (Brussels),BEL,0.48,2.39,491
+1262,6/15/2016,Fruit Box (Galway),IRL,1.05,5.26,125
+1263,6/16/2016,Sparkling Water (Seattle),USA,0.76,3.82,348
+1264,6/17/2016,Granola Bar (Tromsø),NOR,0.84,4.18,195
+1265,6/18/2016,Granola Bar (Munich),DEU,0.63,3.17,193
+1266,6/19/2016,Chicken Fajita Wrap (Stockholm),SWE,0.9,4.48,333
+1267,6/20/2016,Almond Croissant (Manchester),GBR,0.53,2.67,349
+1268,6/21/2016,Still Water (Strasbourg),FRA,0.9,4.51,138
+1269,6/22/2016,Toast (Austin),USA,0.92,4.62,500
+1270,6/23/2016,Almond Croissant (Toulouse),FRA,0.66,3.31,447
+1271,6/24/2016,Fruit Box (Kraków),POL,0.9,4.52,435
+1272,6/25/2016,Lemon & Ginger Tea (San Diego),USA,0.48,2.41,130
+1273,6/26/2016,Porridge (Edinburgh),GBR,0.37,1.87,448
+1274,6/27/2016,Fruit Box (Portland),USA,0.77,3.87,129
+1275,6/28/2016,Tomato Juice (Southampton),GBR,0.87,4.36,274
+1276,6/29/2016,Butter Croissant (Edinburgh),GBR,0.93,4.63,429
+1277,6/30/2016,Cheese & Pickle Sandwich (Lausanne),CHE,0.68,3.39,278
+1278,7/1/2016,Porridge (Melbourne),AUS,0.97,4.83,314
+1279,7/2/2016,Cheese & Pickle Sandwich (Stockholm),SWE,0.42,2.1,464
+1280,7/3/2016,Peach Juice (Stuttgart),DEU,0.95,4.73,473
+1281,7/4/2016,Peach Juice (Lausanne),CHE,0.45,2.25,211
+1282,7/5/2016,Yoghurt (Southampton),GBR,0.61,3.06,308
+1283,7/6/2016,Tomato Juice (Odense),DNK,0.3,1.51,241
+1284,7/7/2016,Sparkling Water (Toulouse),FRA,0.8,3.98,135
+1285,7/8/2016,Tea (Geneva),CHE,0.39,1.97,315
+1286,7/9/2016,Lemon & Ginger Tea (Melbourne),AUS,0.54,2.7,384
+1287,7/10/2016,Coffee (Galway),IRL,0.44,2.18,158
+1288,7/11/2016,Tuna Melt Panini (Sydney),AUS,0.51,2.56,417
+1289,7/12/2016,Chocolate Twist (Potsdam),DEU,0.6,2.98,224
+1290,7/13/2016,Tomato Juice (Paris),FRA,0.84,4.18,384
+1291,7/14/2016,Ham & Cheese Toastie (Munich),DEU,0.84,4.2,182
+1292,7/15/2016,Coffee (Salzburg),AUT,0.75,3.74,324
+1293,7/16/2016,Blueberry Muffin (Birmingham),GBR,0.91,4.56,338
+1294,7/17/2016,Lemon & Ginger Tea (Southampton),GBR,0.67,3.36,230
+1295,7/18/2016,Chicken Fajita Wrap (Hamburg),DEU,0.63,3.15,149
+1296,7/19/2016,Tomato Juice (Edinburgh),GBR,0.45,2.23,481
+1297,7/20/2016,Tuna Melt Panini (Kirkland),USA,0.5,2.5,260
+1298,7/21/2016,Tomato Juice (Paris),FRA,0.86,4.32,432
+1299,7/22/2016,Tomato Juice (Boston),USA,0.49,2.45,232
+1300,7/23/2016,Lemon & Ginger Tea (Melbourne),AUS,0.55,2.73,158
+1301,7/24/2016,Apple Juice (Manchester),GBR,0.51,2.54,159
+1302,7/25/2016,BLT Sandwich (Graz),AUT,0.73,3.64,269
+1303,7/26/2016,Coffee (Seattle),USA,0.37,1.87,102
+1304,7/27/2016,Butter Croissant (Gdańsk),POL,0.4,1.98,179
+1305,7/28/2016,Porridge (Gdańsk),POL,1.06,5.32,289
+1306,7/29/2016,Lemon & Ginger Tea (Dresden),DEU,1.02,5.09,182
+1307,7/30/2016,Granola Bar (Toulouse),FRA,0.85,4.26,363
+1308,7/31/2016,Chocolate Chip Muffin (Munich),DEU,0.75,3.75,405
+1309,8/1/2016,Blueberry Muffin (Katowice),POL,0.88,4.39,292
+1310,8/2/2016,Chocolate Chip Muffin (Copenhagan),DNK,0.42,2.12,141
+1311,8/3/2016,Tomato Juice (Melbourne),AUS,0.39,1.96,261
+1312,8/4/2016,Butter Croissant (Copenhagan),DNK,0.47,2.34,304
+1313,8/5/2016,Orange Juice (Strasbourg),FRA,1.04,5.21,185
+1314,8/6/2016,Chocolate Twist (Galway),IRL,0.73,3.65,493
+1315,8/7/2016,Coffee (Brussels),BEL,0.7,3.5,489
+1316,8/8/2016,Coffee (Stockholm),SWE,0.62,3.1,223
+1317,8/9/2016,Fruit Box (Copenhagan),DNK,0.42,2.12,178
+1318,8/10/2016,Chicken Salad Sandwich (Kirkland),USA,0.94,4.69,279
+1319,8/11/2016,Tea (Tromsø),NOR,0.85,4.27,211
+1320,8/12/2016,Green Tea (Sydney),AUS,0.4,2.02,195
+1321,8/13/2016,Lemon & Ginger Tea (Munich),DEU,0.98,4.9,382
+1322,8/14/2016,BLT Sandwich (Madison),USA,1.03,5.17,326
+1323,8/15/2016,Yoghurt (Cardiff),GBR,0.73,3.65,216
+1324,8/16/2016,Still Water (Toronto),CAN,0.84,4.2,437
+1325,8/17/2016,Chicken Salad Sandwich (San Diego),USA,1.02,5.09,261
+1326,8/18/2016,Chicken Fajita Wrap (Paris),FRA,1.08,5.39,179
+1327,8/19/2016,Chocolate Twist (Berlin),DEU,1.04,5.2,153
+1328,8/20/2016,Porridge (Munich),DEU,0.47,2.37,288
+1329,8/21/2016,Apple Juice (Dresden),DEU,0.56,2.81,368
+1330,8/22/2016,Lemon & Ginger Tea (Salzburg),AUT,1.04,5.21,125
+1331,8/23/2016,Green Tea (Hamilton),NZL,0.63,3.14,215
+1332,8/24/2016,BLT Sandwich (Sydney),AUS,0.3,1.51,184
+1333,8/25/2016,Butter Croissant (Edinburgh),GBR,1.03,5.17,486
+1334,8/26/2016,Almond Croissant (Hamburg),DEU,0.84,4.19,469
+1335,8/27/2016,Apple Juice (Stockholm),SWE,0.5,2.48,488
+1336,8/28/2016,Tuna Melt Panini (Tromsø),NOR,0.46,2.29,476
+1337,8/29/2016,Chicken Fajita Wrap (Lausanne),CHE,0.83,4.13,433
+1338,8/30/2016,Ham & Cheese Toastie (Potsdam),DEU,0.42,2.08,325
+1339,8/31/2016,Apple Juice (San Francisco),USA,0.42,2.11,458
+1340,9/1/2016,Yoghurt (Strasbourg),FRA,0.58,2.9,438
+1341,9/2/2016,Still Water (Geneva),CHE,0.38,1.9,176
+1342,9/3/2016,Cheese & Pickle Sandwich (Lausanne),CHE,1.08,5.38,264
+1343,9/4/2016,Almond Croissant (Albuquerque),USA,1,5.01,430
+1344,9/5/2016,Chocolate Twist (Toulouse),FRA,0.92,4.6,314
+1345,9/6/2016,Tea (San Diego),USA,0.93,4.63,173
+1346,9/7/2016,Green Tea (Odense),DNK,0.57,2.85,171
+1347,9/8/2016,Fruit Box (Salzburg),AUT,0.58,2.92,121
+1348,9/9/2016,Tuna Melt Panini (Birmingham),GBR,1.02,5.1,253
+1349,9/10/2016,Tuna Melt Panini (Copenhagan),DNK,1.1,5.48,296
+1350,9/11/2016,Ham & Cheese Toastie (Sydney),AUS,0.71,3.55,320
+1351,9/12/2016,BLT Sandwich (Galway),IRL,0.6,3.01,215
+1352,9/13/2016,Apple Juice (Lausanne),CHE,0.98,4.88,276
+1353,9/14/2016,Sparkling Water (Seattle),USA,0.55,2.75,178
+1354,9/15/2016,Blueberry Muffin (Sydney),AUS,0.36,1.78,109
+1355,9/16/2016,Porridge (Dublin),IRL,0.32,1.59,441
+1356,9/17/2016,Granola Bar (Sønderborg),DNK,0.35,1.77,363
+1357,9/18/2016,Chocolate Chip Muffin (Glasgow),GBR,0.99,4.94,291
+1358,9/19/2016,Toast (Auckland),NZL,0.7,3.48,436
+1359,9/20/2016,BLT Sandwich (Munich),DEU,0.75,3.73,214
+1360,9/21/2016,Chocolate Twist (Albuquerque),USA,0.35,1.77,326
+1361,9/22/2016,Granola Bar (Salzburg),AUT,0.35,1.76,435
+1362,9/23/2016,Still Water (Graz),AUT,0.47,2.36,267
+1363,9/24/2016,Cheese & Pickle Sandwich (Kraków),POL,0.59,2.96,262
+1364,9/25/2016,Lemon & Ginger Tea (Cardiff),GBR,0.97,4.85,268
+1365,9/26/2016,Porridge (Galway),IRL,0.44,2.18,249
+1366,9/27/2016,Porridge (Portland),USA,0.41,2.03,126
+1367,9/28/2016,Toast (Cardiff),GBR,0.77,3.87,134
+1368,9/29/2016,Chicken Salad Sandwich (Edinburgh),GBR,0.34,1.69,442
+1369,9/30/2016,Still Water (Munich),DEU,0.98,4.88,184
+1370,10/1/2016,Chocolate Chip Muffin (Auckland),NZL,0.58,2.91,267
+1371,10/2/2016,Chocolate Twist (Cardiff),GBR,0.92,4.62,345
+1372,10/3/2016,Orange Juice (Lille),FRA,0.53,2.67,486
+1373,10/4/2016,Lemon & Ginger Tea (Salzburg),AUT,0.82,4.12,130
+1374,10/5/2016,Cheese & Pickle Sandwich (Boston),USA,0.61,3.04,498
+1375,10/6/2016,Coffee (Sønderborg),DNK,1.09,5.43,125
+1376,10/7/2016,Still Water (Brussels),BEL,0.44,2.18,231
+1377,10/8/2016,Tuna Melt Panini (Lille),FRA,1.02,5.08,220
+1378,10/9/2016,Orange Juice (Tromsø),NOR,0.53,2.63,151
+1379,10/10/2016,Tomato Juice (Brussels),BEL,0.38,1.9,298
+1380,10/11/2016,Almond Croissant (Canberra),AUS,0.45,2.27,388
+1381,10/12/2016,Butter Croissant (Portland),USA,1,4.99,440
+1382,10/13/2016,Apple Juice (Hamburg),DEU,0.57,2.85,492
+1383,10/14/2016,Apple Juice (Berlin),DEU,1.01,5.06,202
+1384,10/15/2016,Ham & Cheese Toastie (Edinburgh),GBR,0.45,2.27,181
+1385,10/16/2016,Butter Croissant (Austin),USA,0.93,4.63,372
+1386,10/17/2016,Lemon & Ginger Tea (Dresden),DEU,1.03,5.16,332
+1387,10/18/2016,Tuna Melt Panini (Paris),FRA,0.83,4.16,182
+1388,10/19/2016,Chicken Fajita Wrap (San Diego),USA,0.89,4.43,289
+1389,10/20/2016,Peach Juice (Kirkland),USA,0.96,4.79,483
+1390,10/21/2016,Porridge (Glasgow),GBR,0.99,4.93,368
+1391,10/22/2016,Ham & Cheese Toastie (Katowice),POL,0.67,3.37,124
+1392,10/23/2016,Butter Croissant (Glasgow),GBR,0.98,4.88,351
+1393,10/24/2016,Still Water (Madison),USA,0.5,2.48,380
+1394,10/25/2016,Toast (London),GBR,0.65,3.26,304
+1395,10/26/2016,Fruit Box (Hamburg),DEU,0.93,4.66,195
+1396,10/27/2016,Orange Juice (Albuquerque),USA,0.85,4.23,106
+1397,10/28/2016,Porridge (Sønderborg),DNK,0.95,4.73,107
+1398,10/29/2016,Green Tea (Seattle),USA,0.48,2.4,255
+1399,10/30/2016,Orange Juice (Glasgow),GBR,0.73,3.64,483
+1400,10/31/2016,Still Water (Sønderborg),DNK,0.59,2.94,104
+1401,11/1/2016,Apple Juice (Strasbourg),FRA,0.38,1.92,461
+1402,11/2/2016,Peach Juice (Odense),DNK,0.4,1.98,168
+1403,11/3/2016,Tomato Juice (Berlin),DEU,0.77,3.87,167
+1404,11/4/2016,Chocolate Twist (Tromsø),NOR,0.83,4.17,420
+1405,11/5/2016,Tuna Melt Panini (Dublin),IRL,0.37,1.87,231
+1406,11/6/2016,Sparkling Water (Melbourne),AUS,0.31,1.56,430
+1407,11/7/2016,Tomato Juice (Albuquerque),USA,0.47,2.35,285
+1408,11/8/2016,Orange Juice (Hamburg),DEU,0.8,4.01,239
+1409,11/9/2016,Sparkling Water (Dresden),DEU,0.84,4.2,281
+1410,11/10/2016,Butter Croissant (Dublin),IRL,1.05,5.27,119
+1411,11/11/2016,Chocolate Twist (Katowice),POL,0.78,3.9,268
+1412,11/12/2016,Chicken Fajita Wrap (Auckland),NZL,0.58,2.9,129
+1413,11/13/2016,Fruit Box (Portland),USA,0.88,4.42,130
+1414,11/14/2016,Chicken Fajita Wrap (Hamburg),DEU,0.64,3.22,144
+1415,11/15/2016,Still Water (Cardiff),GBR,0.64,3.21,158
+1416,11/16/2016,Chocolate Chip Muffin (Strasbourg),FRA,0.43,2.17,365
+1417,11/17/2016,Butter Croissant (Munich),DEU,1.02,5.12,293
+1418,11/18/2016,Lemon & Ginger Tea (Toulouse),FRA,1.08,5.4,219
+1419,11/19/2016,Butter Croissant (Manchester),GBR,0.8,4.02,399
+1420,11/20/2016,Tea (Gdańsk),POL,0.96,4.79,464
+1421,11/21/2016,Fruit Box (Vancouver),CAN,0.3,1.51,489
+1422,11/22/2016,Yoghurt (Toronto),CAN,0.63,3.17,444
+1423,11/23/2016,Peach Juice (London),GBR,0.4,1.98,207
+1424,11/24/2016,Apple Juice (Seattle),USA,0.6,3.02,447
+1425,11/25/2016,Butter Croissant (Stockholm),SWE,1.06,5.32,423
+1426,11/26/2016,Ham & Cheese Toastie (Hamburg),DEU,0.84,4.22,381
+1427,11/27/2016,Almond Croissant (Vancouver),CAN,0.86,4.31,452
+1428,11/28/2016,Tomato Juice (Manchester),GBR,0.93,4.64,411
+1429,11/29/2016,Tea (Birmingham),GBR,0.59,2.96,486
+1430,11/30/2016,Porridge (Geneva),CHE,0.4,1.98,486
+1431,12/1/2016,Chocolate Chip Muffin (Birmingham),GBR,0.83,4.15,186
+1432,12/2/2016,Tuna Melt Panini (Toulouse),FRA,0.75,3.77,125
+1433,12/3/2016,Sparkling Water (Austin),USA,0.63,3.16,127
+1434,12/4/2016,Fruit Box (Hamburg),DEU,0.77,3.83,105
+1435,12/5/2016,Tomato Juice (Stockholm),SWE,0.53,2.63,169
+1436,12/6/2016,Fruit Box (Dublin),IRL,0.66,3.3,470
+1437,12/7/2016,Chocolate Chip Muffin (Toronto),CAN,0.48,2.4,185
+1438,12/8/2016,Ham & Cheese Toastie (Dresden),DEU,0.41,2.03,364
+1439,12/9/2016,Chocolate Chip Muffin (Birmingham),GBR,0.53,2.65,336
+1440,12/10/2016,Toast (Edinburgh),GBR,1.01,5.05,362
+1441,12/11/2016,Chocolate Twist (Dresden),DEU,0.99,4.96,385
+1442,12/12/2016,Almond Croissant (Canberra),AUS,1.01,5.03,330
+1443,12/13/2016,Yoghurt (Sønderborg),DNK,0.65,3.26,138
+1444,12/14/2016,Chicken Salad Sandwich (Kirkland),USA,0.75,3.73,351
+1445,12/15/2016,Peach Juice (Hamburg),DEU,0.64,3.18,218
+1446,12/16/2016,Sparkling Water (San Diego),USA,1.02,5.1,458
+1447,12/17/2016,Apple Juice (Austin),USA,0.43,2.17,378
+1448,12/18/2016,Green Tea (Hamilton),NZL,1.02,5.1,202
+1449,12/19/2016,Chicken Salad Sandwich (Toulouse),FRA,0.59,2.94,246
+1450,12/20/2016,Granola Bar (Birmingham),GBR,0.76,3.78,188
+1451,12/21/2016,Tomato Juice (Tromsø),NOR,0.47,2.34,170
+1452,12/22/2016,Coffee (Dublin),IRL,0.79,3.95,281
+1453,12/23/2016,Chocolate Chip Muffin (Lille),FRA,0.43,2.14,385
+1454,12/24/2016,Ham & Cheese Toastie (Odense),DNK,0.59,2.93,316
+1455,12/25/2016,Porridge (Graz),AUT,0.53,2.64,254
+1456,12/26/2016,Ham & Cheese Toastie (Graz),AUT,0.51,2.56,100
+1457,12/27/2016,Tuna Melt Panini (Kraków),POL,0.68,3.42,400
+1458,12/28/2016,Chicken Salad Sandwich (Lille),FRA,0.63,3.15,474
+1459,12/29/2016,Tomato Juice (Brussels),BEL,0.64,3.18,374
+1460,12/30/2016,Fruit Box (Hamilton),NZL,0.69,3.43,263
+1461,12/31/2016,Chicken Salad Sandwich (Cardiff),GBR,0.88,4.41,168
